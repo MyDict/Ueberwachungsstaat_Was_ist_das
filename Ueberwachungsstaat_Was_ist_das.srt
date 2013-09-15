@@ -1,0 +1,806 @@
+1
+00:00:00,001 --> 00:00:01,000
+迈迪字幕组荣誉出品
+www.MyDict.org
+
+2
+00:00:01,250 --> 00:00:02,750
+译员:
+
+2
+00:00:03,190 --> 00:00:05,410
+Überwachungsstaat - was ist das überhaupt?
+
+3
+00:00:05,410 --> 00:00:09,589
+Unter einem Überwachungsstaat versteht man
+einen Staat, der ganz legal alles Handeln,
+
+4
+00:00:09,589 --> 00:00:13,679
+die Aufenthaltsorte und Freunde seiner Bürger
+überwacht, um Straftaten zu verhindern,
+
+5
+00:00:13,679 --> 00:00:16,830
+oder um sie schneller aufzuklären.
+Das klingt doch erst mal nach einer ganz guten Idee:
+
+6
+00:00:16,830 --> 00:00:21,570
+Straftaten werden verhindert, und alle sind
+sicherer. Trotzdem ist der Begriff negativ geprägt
+
+7
+00:00:21,570 --> 00:00:23,370
+Woran liegt das?
+
+8
+00:00:23,870 --> 00:00:27,460
+Eine der wichtigsten Aufgaben eines Staates
+ist es, für Sicherheit seiner Bürger zu sorgen.
+
+9
+00:00:27,460 --> 00:00:31,900
+Gleichzeitig muss er ihnen auch Freiheiten
+zugestehen, damit jeder sein Leben individuell
+
+10
+00:00:31,900 --> 00:00:36,199
+gestalten kann. Sicherheit und Freiheit ergänzen
+sich, weisen sich aber auch in Schranken,
+
+11
+00:00:36,199 --> 00:00:40,260
+denn Freiheit ist immer mit Risiken verbunden
+und Sicherheit schränkt immer auch Freiheiten ein.
+
+12
+00:00:40,260 --> 00:00:45,248
+In Demokratien hat sich daher ein Kompromiss etab-
+liert, welcher das Beste aus beiden Welten vereint.
+
+13
+00:00:45,249 --> 00:00:49,489
+In einem Überwachungsstaat dagegen wird die
+Freiheit durch übertriebene Sicherheitsbedürfnisse
+
+14
+00:00:49,489 --> 00:00:53,260
+eingeschränkt -- und das ist auch schon sein
+größtes Problem.
+
+15
+00:00:53,260 --> 00:00:58,479
+Zuletzt aktuell war das Thema bei der sogenannten
+Vorratsdatenspeicherung, bei der zur Terrorabwehr
+
+16
+00:00:58,479 --> 00:01:01,839
+alle Telefon- und Internetverbindungsdaten für
+6 Monate gespeichert werden sollten.
+
+17
+00:01:01,839 --> 00:01:06,480
+Und obwohl die Speicherung und ihr Nutzen
+als heftig umstritten galt, und vom Bundesverfassungsgericht
+
+18
+00:01:06,480 --> 00:01:10,900
+verboten wurde, erscheint sie heute fast harmlos
+gegenüber PRISM und TEMPORA - den beiden
+
+19
+00:01:10,900 --> 00:01:14,970
+Überwachungsprogrammen der britischen und
+amerikanischen Regierung, die auch uns in
+
+20
+00:01:14,970 --> 00:01:18,530
+Deutschland betreffen. Diese speichern nämlich
+nicht nur Verbindungsdaten, sondern schlicht
+
+21
+00:01:18,530 --> 00:01:23,240
+und einfach ALLES, was jeder von uns im Netz
+tut und über britische und amerikanische
+
+22
+00:01:23,240 --> 00:01:28,130
+Server läuft -- jeden Text und jedes Bild:
+wirklich alles. Sogar, dass du dir jetzt gerade
+
+23
+00:01:28,130 --> 00:01:29,810
+dieses Video hier ansiehst.
+
+24
+00:01:30,100 --> 00:01:34,390
+Manche Arten der Überwachung sind auch so
+schon seit vielen Jahren in Deutschland möglich
+
+25
+00:01:34,390 --> 00:01:38,640
+-- zum Beispiel das Abhören von Telefonaten,
+Chats oder E-Mails zur Bekämpfung von Terrorismus
+
+26
+00:01:38,640 --> 00:01:43,560
+und organisierter Kriminalität. Richter können dafür
+im Einzelfall einen sogenannten Lauschangriff anordnen.
+
+27
+00:01:43,560 --> 00:01:46,930
+Doch, was, wenn wir ab sofort einfach JEDES Telefonat,
+
+28
+00:01:46,930 --> 00:01:50,990
+JEDEN Chat und JEDE E-Mail ohne
+Verdacht überprüfen würden?
+
+29
+00:01:50,990 --> 00:01:54,250
+Könnten wir dann nicht Verbrechen und Terror
+für alle Zeiten verhindern?
+
+30
+00:01:54,250 --> 00:01:59,230
+Vielleicht für kurze Zeit - doch es ist wahrscheinlicher,
+dass Befürworter dieser Idee den Einfallsreichtum
+
+31
+00:01:59,230 --> 00:02:03,259
+von Kriminellen unterschätzen: Wer nicht
+entdeckt werden will, findet immer einen Weg
+
+32
+00:02:03,259 --> 00:02:07,000
+- z.B. durch starke Verschlüsselung oder
+persönliche Gespräche an Orten, wo Überwacher
+
+33
+00:02:07,000 --> 00:02:11,470
+keinen Zugriff haben - und die Leidtragenden
+sind ausgerechnet ganz normale, unschuldige
+
+34
+00:02:11,470 --> 00:02:14,230
+Bürger, denen fortan der Staat bei allem,
+was sie tun, über die Schulter blickt.
+
+35
+00:02:14,230 --> 00:02:19,319
+Wer schon einmal auf Facebook eine Freundschaftsanfrage
+von Mutti, dem Lehrer oder Chef erhalten hat,
+
+36
+00:02:19,319 --> 00:02:22,489
+kann vielleicht nachvollziehen, wie es sich
+anfühlt, wenn man überwacht wird.
+
+37
+00:02:22,490 --> 00:02:25,930
+Will ich wirklich, dass die Eltern sehen, wie mich meine
+Freunde beim Rauchen fotografiert und getagt haben?
+
+38
+00:02:25,930 --> 00:02:30,300
+Und will ich vom Arbeitgeber online
+beim Lästern erwischt werden, oder beim chatten
+
+39
+00:02:30,300 --> 00:02:32,380
+wenn ich eigentlich mit Fieber im Bett liegen sollte?
+
+40
+00:02:32,380 --> 00:02:36,540
+tumblr und 9gag sind voll mit Beispielen,
+in denen unvorsichtige Pechvögel über den
+
+41
+00:02:36,540 --> 00:02:40,810
+eigenen Chef hergezogen haben und im Kommentar
+darunter von diesem gefeuert wurden, oder
+
+42
+00:02:40,810 --> 00:02:45,440
+Kifferbeichten, die von den Eltern mit "Komm mal nach
+Hause, Junge, wir müssen reden" beantwortet wurden.
+
+43
+00:02:45,440 --> 00:02:47,650
+Ein Überwachungsstaat, der immer mitliest
+
+44
+00:02:47,650 --> 00:02:51,700
+ist im Prinzip nichts anderes - nur dass
+man hier nicht die Wahl hat, dessen
+
+45
+00:02:51,700 --> 00:02:52,750
+Freundschaftsanfrage abzulehnen.
+
+46
+00:02:52,750 --> 00:02:57,370
+Was aus dieser Überwachung folgt, ist die
+Schere im Kopf: Alles, was man sagt oder tut,
+
+47
+00:02:57,370 --> 00:03:01,400
+was kontrovers sein könnte, behält man lieber
+für sich und vermeidet möglichen Ärger
+
+48
+00:03:01,400 --> 00:03:04,720
+- und zwar sogar dann, wenn man eigentlich davon
+ausgeht, dass das, was man tut, völlig legal ist.
+
+49
+00:03:04,720 --> 00:03:09,880
+Selbst kritische Diskussion und Meinungs-
+äußerungen werden so aus Angst eingeschränkt.
+
+50
+00:03:09,880 --> 00:03:13,480
+Befürworter von Überwachung argumentieren,
+dass doch jemand, der nichts zu verbergen hat
+
+51
+00:03:13,480 --> 00:03:17,269
+auch gar nichts zu befürchten habe. Doch leider
+ist an dieser Behauptung einiges falsch.
+
+52
+00:03:17,270 --> 00:03:19,950
+Es geht um das Verhältnis zwischen Staat
+
+53
+00:03:19,950 --> 00:03:23,619
+und Bürger. Es bedeutet, dass der Bürger
+etwas zu befürchten habe, wenn er etwas zu
+
+54
+00:03:23,620 --> 00:03:28,180
+verbergen hat. Gilt das auch umgekehrt für
+Geheimdienste, deren Namen ja schon preisgibt,
+
+55
+00:03:28,180 --> 00:03:31,230
+dass sie etwas verbergen?
+Wieso sollte man davon ausgehen, dass die
+
+56
+00:03:31,230 --> 00:03:35,230
+Geheimnisse des Staates immer legitim sind,
+während die Geheimnisse der Bürger es grundsätzlich
+
+57
+00:03:35,230 --> 00:03:38,420
+nicht sein sollen?
+Dass Überwachung für einen einzelnen unangenehm
+
+58
+00:03:38,420 --> 00:03:42,670
+sein könnte, wird ebenfalls ignoriert - wo wir
+wieder bei "hat auch nichts zu befürchten" wären.
+
+59
+00:03:42,670 --> 00:03:46,929
+Ein völlig Unschuldiger hat sehr wohl
+unangenehme "Überwachung" zu befürchten.
+
+60
+00:03:46,930 --> 00:03:50,900
+Und was ist mit staatlichen Zwangsmassnahmen,
+wie der Untersuchungshaft? In Grossbritannien
+
+61
+00:03:50,900 --> 00:03:55,430
+können Personen bis zu 14 Tage ohne Anklage
+festgehalten werden. Sollte sich der Verdacht
+
+62
+00:03:55,430 --> 00:03:59,640
+als falsch herausstellen, gibt es keine Entschädigung
+für den Freiheitsentzug. Pech gehabt.
+
+63
+00:03:59,640 --> 00:04:03,500
+Ähnliches gilt in Deutschland, wenn aufgrund
+eines Verdachts Computerhardware oder Daten
+
+64
+00:04:03,500 --> 00:04:07,319
+von Unternehmen oder Privatpersonen beschlagnahmt
+werden - was regelmässig geschieht!
+
+65
+00:04:07,319 --> 00:04:12,089
+Und selbst wenn sich danach die Unschuld herausstellt,
+bleiben die Betroffenen auf dem Schaden sitzen.
+
+66
+00:04:12,090 --> 00:04:13,489
+denn die Polizei kann beschlagnahmte Geräte
+
+67
+00:04:13,489 --> 00:04:15,629
+und Daten über Monate bis Jahre behalten.
+
+68
+00:04:15,629 --> 00:04:20,168
+Die Aussage "... hat auch nichts zu befürchten."
+geht auch davon aus, dass das allein am Verhalten
+
+69
+00:04:20,168 --> 00:04:24,469
+des Bürgers liegt - nicht jedoch am Staat.
+Dabei ist es genauso möglich, dass sich Gesetze
+
+70
+00:04:24,470 --> 00:04:28,699
+verschärfen und was vorher unproblematisch
+war, wird plötzlich zum Verdachtsmoment.
+
+71
+00:04:28,699 --> 00:04:32,550
+Oder dass sich ein demokratisches System zur
+Diktatur wandelt, wie es derzeit in Ungarn
+
+72
+00:04:32,550 --> 00:04:36,590
+geschehen könnte - die Aussage "...hat auch
+nichts zu befürchten." geht davon aus, dass
+
+73
+00:04:36,590 --> 00:04:40,780
+der Staat immer recht hat - selbst wenn er
+sich irrt oder seine Macht missbraucht.
+
+74
+00:04:40,780 --> 00:04:46,119
+Der Brite Leigh Van Bryan twitterte Anfang
+2012 über eine bevorstehende Reise nach Amerika,
+
+75
+00:04:46,120 --> 00:04:50,440
+dass er es "zerstören" und "Marilyn Monroe
+aus ihrem Grab schaufeln" wolle.
+
+76
+00:04:50,440 --> 00:04:55,380
+"destroy America" - gemeint war selbstverständlich
+"Party machen, sich besaufen". Die US-Einreisebehörden,
+
+77
+00:04:55,380 --> 00:04:59,560
+die offenbar Twitter nach genau dieser Phrase
+absuchten, verstanden keinen Spass, durchsuchten
+
+78
+00:04:59,560 --> 00:05:03,020
+sein Gepäck nach Spaten und schickten ihn
+und seine Begleiterin in Handschellen zuerst
+
+79
+00:05:03,020 --> 00:05:05,650
+ins Gefängnis und danach zurück nach Grossbritannien.
+
+80
+00:05:05,650 --> 00:05:09,460
+Noch schlimmer erging es Justin Carter, einem
+Teenager aus Texas, der nach einer Partie
+
+81
+00:05:09,460 --> 00:05:13,919
+"League of Legends" von einem Facebook-Bekannten
+"total fertig im Kopf" genannt wurde.
+
+82
+00:05:13,919 --> 00:05:18,150
+Seine sarkastische Antwort "Oh yeah, Ich bin total
+fertig im Kopf, ich werde jetzt eine Schule
+
+83
+00:05:18,150 --> 00:05:23,159
+voller Kinder erschiessen und ihre schlagenden
+Herzen essen. LOL. JK.", brachte ihn nicht nur für
+
+84
+00:05:23,160 --> 00:05:26,990
+6 Monate in den Knast -- er muss nun auch
+wegen angeblicher Terrordrohung mit einer
+
+85
+00:05:26,990 --> 00:05:29,330
+Freiheitsstrafe von 10 Jahren rechnen.
+
+86
+00:05:29,330 --> 00:05:33,609
+Was als harmloser Scherz gemeint war, kann
+von ironie-resistenten Behörden schnell missverstanden
+
+87
+00:05:33,610 --> 00:05:37,820
+werden und fatale Konsequenzen haben. Kann
+man sich Sarkasmus dann überhaupt noch leisten?
+
+88
+00:05:37,820 --> 00:05:42,300
+Und welche Auswirkung hat das auf die Freiheit
+und die Schere im Kopf, wenn jeder Angst haben
+
+89
+00:05:42,300 --> 00:05:45,930
+muss, dass seine Privatsphäre und jedes Wort,
+das er sagt und schreibt, von Behörden auf
+
+90
+00:05:45,930 --> 00:05:49,080
+mögliche Rechtsverstösse überprüft, und
+dann noch womöglich falsch verstanden wird?
+
+91
+00:05:49,080 --> 00:05:53,570
+Andrej Holm, ein wissenschaftlicher Mitarbeiter
+der Humboldt-Universität Berlin, geriet ins
+
+92
+00:05:53,570 --> 00:05:58,110
+Visier von Fahndern, nachdem er in einem Online-Artikel
+die Worte "Gentrification" und "Prekarisierung"
+
+93
+00:05:58,110 --> 00:06:02,850
+verwendet hatte. Die selben Worte waren zuvor
+in Bekennerschreiben bei Anschlägen auf Polizeifahrzeuge
+
+94
+00:06:02,850 --> 00:06:06,990
+in Berlin aufgetaucht, und aus genau diesem Grund
+wurde Holm und seine Familie erst monatelang
+
+95
+00:06:06,990 --> 00:06:11,419
+intensiv überwacht, dann in einem Überfallkommando
+in seiner Wohnung in Unterhosen verhaftet
+
+96
+00:06:11,419 --> 00:06:13,650
+und schliesslich 3 Wochen in Untersuchungshaft
+gesteckt.
+
+97
+00:06:13,650 --> 00:06:18,359
+Dass Holm am Ende unschuldig war, machte den
+angerichteten Schaden natürlich nicht ungeschehen.
+
+98
+00:06:18,360 --> 00:06:22,509
+Er muss damit leben, dass der Staat viele
+Monate lang intimste Details aus seinem Leben
+
+99
+00:06:22,509 --> 00:06:27,759
+und dem seiner Familie überwachte, und dies sogar
+noch einige Zeit nach seiner Freilassung fortsetzte.
+
+100
+00:06:27,759 --> 00:06:31,070
+Dabei ist es noch nicht einmal nötig, etwas
+dafür zu tun, um ins Visier von Behörden
+
+101
+00:06:31,070 --> 00:06:35,680
+zu geraten. Den falschen Namen zu haben reicht
+völlig aus. Drei James Robinsons aus den
+
+102
+00:06:35,680 --> 00:06:38,870
+USA mussten erfahren, was es bedeutet, auf
+einer Terror-Watchlist zu stehen. Der eine
+
+103
+00:06:38,870 --> 00:06:43,490
+ist Pilot, der nächste Anwalt, und der dritte
+ein 5-jähriger Junge - und alle drei werden
+
+104
+00:06:43,490 --> 00:06:46,979
+aufgrund ihres Namens verdächtigt, Terroristen
+zu sein und müssen sich bei Flügen einer
+
+105
+00:06:46,979 --> 00:06:51,130
+intensiven Untersuchung stellen oder damit
+rechnen, nicht fliegen zu dürfen. Obwohl
+
+106
+00:06:51,130 --> 00:06:55,340
+alle drei gegen diese Behandlung vorgingen,
+änderte sich nichts. Erst als sie ihren Namen
+
+107
+00:06:55,340 --> 00:07:00,008
+bei Buchungen in anderer Form angaben - z.b.
+"Jim" statt James, konnten sie passieren.
+
+108
+00:07:00,009 --> 00:07:04,180
+Welchen Wert hat eine Terror-Watchlist, wenn
+sie die völlig Falschen trifft, und welche
+
+109
+00:07:04,180 --> 00:07:07,780
+Rückschlüsse lässt dies auf die Verlässlichkeit
+anderer Formen von Überwachung zu?
+
+110
+00:07:07,780 --> 00:07:11,599
+Ein weiteres Problem ist der Missbrauch von
+Daten - und damit ist nicht allein der Verkauf
+
+111
+00:07:11,600 --> 00:07:15,740
+von privaten Adressen zu WERBEzwecken gemeint,
+wie er in Deutschlands Einwohnermeldeämter
+
+112
+00:07:15,740 --> 00:07:19,330
+tatsächlich heute schon legal üblich ist,
+sondern auch die Verwendung ausspionierter
+
+113
+00:07:19,330 --> 00:07:24,639
+privater Dinge - seien es Seitensprünge,
+deine Sexualität oder politische Orientierung:
+
+114
+00:07:24,639 --> 00:07:27,580
+Wer über dein Privatleben bescheid weiss,
+hat Macht über dich, und niemand weiss das
+
+115
+00:07:27,580 --> 00:07:31,630
+besser als die Opfer der Stasi in der DDR
+oder einem anderen deutschen Unrechtsregime:
+
+116
+00:07:31,630 --> 00:07:36,330
+Die deutsche Polizei im 19. Jahrhundert führte
+Listen über bekannte und angebliche Schwule
+
+117
+00:07:36,330 --> 00:07:42,250
+- es ging darum, die Strafverfolgung nach
+§175, der schwulen Sex verbot, zu erleichtern.
+
+118
+00:07:42,250 --> 00:07:47,270
+Ab 1933 fielen diese Listen den Nazis in die
+Hände, die zuerst den §175 verschärften
+
+119
+00:07:47,270 --> 00:07:50,979
+und anschliessend zehntausende Männer in
+Psychatrien verschleppten, kastrierten oder in
+
+120
+00:07:50,979 --> 00:07:55,139
+Konzentrationslagern umbrachten - so weit hatte
+man beim Anlegen der sogenannten Rosa Listen
+
+121
+00:07:55,139 --> 00:07:59,759
+sicher nicht gedacht, und sie gelten heute als eines
+der wichtigsten Mahnmale gegen Datensammlungen.
+
+122
+00:07:59,759 --> 00:08:03,770
+Und wenn wir schon bei den Nazis sind: Welche
+Möglichkeit hätten die Juden gehabt, mit
+
+123
+00:08:03,770 --> 00:08:07,250
+gefälschten Pässen vor Hitler zu fliehen,
+wenn damals bereits biometrische Pässe und
+
+124
+00:08:07,250 --> 00:08:11,370
+vernetzte Überwachungssysteme an allen Flughäfen
+und Grenzen zur Verfügung gestanden hätten?
+
+125
+00:08:11,370 --> 00:08:15,680
+Leisten wir nicht damit schon die Vorarbeit
+zur zukünftigen Verfolgung von Minderheiten?
+
+126
+00:08:15,680 --> 00:08:19,419
+Politiker, wie der frühere Innenminister
+Wolfgang Schäuble, haben solche Vergleiche
+
+127
+00:08:19,419 --> 00:08:23,568
+immer mit dem Verweis abgelehnt, dass ein
+Rückfall in ein nationalsozialistisches System
+
+128
+00:08:23,569 --> 00:08:27,690
+in der Bundesrepublik undenkbar wäre. Doch,
+wie kann er sicher sein, dass sich hier in
+
+129
+00:08:27,690 --> 00:08:32,770
+20-30 Jahren kein anderes Unrechtsregime bildet
+- Ungarn lässt grüßen -, oder dass Deutschland
+
+130
+00:08:32,770 --> 00:08:36,510
+von einem feindlichen Ausländischen übernommen wird?
+Ein Rechtsstaat muss nicht nur für Sicherheit
+
+131
+00:08:36,510 --> 00:08:40,069
+sorgen - er muss auch darauf achten, dass
+seine Methoden zur Sicherheit niemals gegen
+
+132
+00:08:40,070 --> 00:08:41,880
+seine Bürger missbraucht werden können.
+
+133
+00:08:41,880 --> 00:08:45,670
+Ein Überwachungs-Staat ist auch das, was
+George Orwell nach dem zweiten Weltkrieg in
+
+134
+00:08:45,670 --> 00:08:50,810
+seinem Roman 1984 vorhersagte: Ein Staat,
+der seine Bürger durch absolute Überwachung
+
+135
+00:08:50,810 --> 00:08:55,349
+zu gesetzeskonformen Handeln zwingt, Sprache
+kontrolliert, Sexualität unterdrückt und
+
+136
+00:08:55,350 --> 00:08:59,810
+Kriege und Terrorismus inszeniert, um wiederum
+Überwachung zu rechtfertigen.
+
+137
+00:08:59,810 --> 00:09:04,000
+Der Spruch von Überwachungskritikern,
+"1984 war nicht als Anleitung gedacht",
+
+138
+00:09:04,000 --> 00:09:08,029
+ist ernst gemeint, denn vieles aus Orwells
+Fiktion ist schon heute Realität:
+
+139
+00:09:08,029 --> 00:09:12,339
+Die Spähprogramme PRISM und TEMPORA überwachen
+alles, was du im Netz tust.
+
+140
+00:09:12,339 --> 00:09:16,080
+Durch GPS und Smartphones lässt sich jederzeit
+herausfinden, wo du bist.
+
+141
+00:09:16,080 --> 00:09:21,149
+Sexualität wird unterdrückt, um Straftaten zu
+verfolgen, die damit meist gar nichts zu tun haben.
+
+142
+00:09:21,149 --> 00:09:25,540
+Videokameras überwachen den öffentlichen
+Raum und identifizieren automatisiert Kennzeichen,
+
+143
+00:09:25,540 --> 00:09:28,399
+Gesichter oder „verdächtige Verhaltensweisen".
+
+144
+00:09:28,399 --> 00:09:32,350
+Kriegsberichterstattungen werden manipuliert
+und dadurch die öffentliche Meinung gelenkt,
+
+145
+00:09:32,350 --> 00:09:35,020
+wie bei den angeblichen Massenvernichtungs-
+waffen im Irak.
+
+146
+00:09:35,020 --> 00:09:38,920
+Aus dem Bemühen, Menschen zu schützen, kann
+schnell etwas werden, das weit mehr Schaden
+
+147
+00:09:38,920 --> 00:09:43,300
+anrichtet, als ursprünglich verhindert werden
+sollte. Ständige Überwachung schränkt unsere
+
+148
+00:09:43,300 --> 00:09:47,770
+Freiheit ein - sie schürt Selbstzensur und
+Paranoia und kostet den Steuerzahler viel Geld
+
+149
+00:09:47,770 --> 00:09:51,079
+-- ohne dass ihr Nutzen wirklich sicher ist.
+
+150
+00:09:51,080 --> 00:09:54,720
+Dabei ist es wahrscheinlich, dass die Überwachung
+in den nächsten Jahren sogar noch zunimmt.
+
+151
+00:09:54,720 --> 00:09:58,940
+Der Grund, warum nicht jedes private Gespräch
+überall auf der Welt abghört wird, ist nicht
+
+152
+00:09:58,940 --> 00:10:03,010
+Respekt vor der Privatsphäre - es ist einfach
+technisch noch nicht möglich.
+
+153
+00:10:03,010 --> 00:10:06,590
+Bis die Technik so weit ist, wird es nicht
+mehr lange dauern, und die Frage ist,
+
+154
+00:10:06,590 --> 00:10:08,080
+wie wir damit umgehen.
+
+155
+00:10:08,080 --> 00:10:11,290
+Wollen wir in einer Welt leben, in der 
+Sicherheit und Freiheit gleichberechtigt sind?
+
+156
+00:10:11,290 --> 00:10:14,579
+Oder in einem Überwachungsstaat, in dem
+Freiheit selbst schon als verdächtig gilt,
+
+157
+00:10:14,580 --> 00:10:16,500
+und vor lauter Sicherheitswahn erdrückt wird?
+
+158
+00:10:16,500 --> 00:10:18,910
+Wie siehst du das? Ist Überwachung gut oder
+
+159
+00:10:18,910 --> 00:10:22,240
+schlecht für die Gesellschaft, oder sind
+wir bereits auf dem Weg in den Überwachungsstaat?
+
+160
+00:10:22,240 --> 00:10:26,130
+Schreib mir deine Meinung in die Kommentare!
+Wenn dir das Video gefallen hat, freu ich mich
+
+161
+00:10:26,130 --> 00:10:29,779
+über nen Daumen hoch - und ich freu mich ausserdem,
+wenn du es weiterverbreitest, damit noch andere Leute
+
+162
+00:10:29,779 --> 00:10:32,200
+erfahren, was ein Überwachungsstaat ist.
+
+163
+00:10:32,200 --> 00:10:34,810
+Jetzt kannst du dir hier noch mein Draw My Life angucken,
+
+164
+00:10:34,810 --> 00:10:37,170
+oder meinen letzten Cartoon, in dem es um Monster geht.
+
+165
+00:10:37,170 --> 00:10:40,199
+Viel Spass beim Anschauen und bis zum nächsten mal!
