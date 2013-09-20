@@ -358,7 +358,6 @@ die Aussage "...hat auch nichts zu befürchten." geht davon aus, dass
 
 73
 00:04:36,590 --> 00:04:40,780
-
 der Staat immer recht hat - selbst wenn er sich irrt oder seine Macht missbraucht.
 
 74
@@ -380,6 +379,7 @@ dass er es "zerstören" und "Marilyn Monroe aus ihrem Grab schaufeln" wolle.
 00:04:55,380 --> 00:04:59,560
 美国移民局根据他这句废话公开搜寻了他的推特之后，一点都不觉得好玩，
 die offenbar Twitter nach genau dieser Phrase absuchten, verstanden keinen Spass, 
+
 78
 00:04:59,560 --> 00:05:03,020
 以搜查铲子为缘由检查了他的行李，并且把他和他的女同伴带上手铐一起送进监狱，之后送回英国。
@@ -387,7 +387,6 @@ durchsuchten sein Gepäck nach Spaten und schickten ihn und seine Begleiterin in
 
 79
 00:05:03,020 --> 00:05:05,650
-
 ins Gefängnis und danach zurück nach Grossbritannien.
 
 80
