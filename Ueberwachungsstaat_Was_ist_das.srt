@@ -295,35 +295,36 @@ Ein völlig Unschuldiger hat sehr wohl unangenehme "Überwachung" zu befürchten
 60
 00:03:46,930 --> 00:03:50,900
 至于国家强制措施，比如待审拘留呢？
-Und was ist mit staatlichen Zwangsmassnahmen, wie der Untersuchungshaft? In Grossbritannien
+Und was ist mit staatlichen Zwangsmassnahmen, wie der Untersuchungshaft? 
 
 61
 00:03:50,900 --> 00:03:55,430
-können Personen bis zu 14 Tage ohne Anklage
-festgehalten werden. Sollte sich der Verdacht
+在英国，公民可不经由任何控告被关押最长至14天
+In Grossbritannien können Personen bis zu 14 Tage ohne Anklage festgehalten werden. 
 
 62
 00:03:55,430 --> 00:03:59,640
-als falsch herausstellen, gibt es keine Entschädigung
-für den Freiheitsentzug. Pech gehabt.
+就算最后证实对你的怀疑是错误的，也不会有任何针对剥夺你个人自由的赔偿。认倒霉吧。
+Sollte sich der Verdacht als falsch herausstellen, gibt es keine Entschädigung für den Freiheitsentzug. Pech gehabt.
 
 63
 00:03:59,640 --> 00:04:03,500
-Ähnliches gilt in Deutschland, wenn aufgrund
-eines Verdachts Computerhardware oder Daten
+在德国也是这样，由于电脑里面的软件、
+Ähnliches gilt in Deutschland, wenn aufgrund eines Verdachts Computerhardware 
 
 64
 00:04:03,500 --> 00:04:07,319
-von Unternehmen oder Privatpersonen beschlagnahmt
-werden - was regelmässig geschieht!
+企业内部的数据或者来自他人的控告而受到怀疑被关押起来————这都是常有的事儿！
+oder Daten von Unternehmen oder Privatpersonen beschlagnahmt werden - was regelmässig geschieht!
 
 65
 00:04:07,319 --> 00:04:12,089
-Und selbst wenn sich danach die Unschuld herausstellt,
-bleiben die Betroffenen auf dem Schaden sitzen.
+即使最后证明你是清白的，你还是会继续受到伤害。
+Und selbst wenn sich danach die Unschuld herausstellt, bleiben die Betroffenen auf dem Schaden sitzen.
 
 66
 00:04:12,090 --> 00:04:13,489
+因为警察会将之前没收的器材和数据经年累月地保存起来。
 denn die Polizei kann beschlagnahmte Geräte
 
 67
@@ -332,72 +333,72 @@ und Daten über Monate bis Jahre behalten.
 
 68
 00:04:15,629 --> 00:04:20,168
-Die Aussage "... hat auch nichts zu befürchten."
-geht auch davon aus, dass das allein am Verhalten
+“……（这）没有什么可担心的”这句话只在民众范围内适用，
+Die Aussage "... hat auch nichts zu befürchten." geht auch davon aus, dass das allein am Verhalten des Bürgers liegt - 
 
 69
 00:04:20,168 --> 00:04:24,469
-des Bürgers liegt - nicht jedoch am Staat.
-Dabei ist es genauso möglich, dass sich Gesetze
+而非适用在民众面对国家的时候。
+nicht jedoch am Staat. Dabei ist es genauso möglich, 
 
 70
 00:04:24,470 --> 00:04:28,699
-verschärfen und was vorher unproblematisch
-war, wird plötzlich zum Verdachtsmoment.
+这种情况还有可能发生在扩充法律条文的时候，哪怕之前一切正常，如今也会突然间变成值得怀疑的时刻。（这句话不太确定）
+dass sich Gesetze verschärfen und was vorher unproblematisch war, wird plötzlich zum Verdachtsmoment.
 
 71
 00:04:28,699 --> 00:04:32,550
-Oder dass sich ein demokratisches System zur
-Diktatur wandelt, wie es derzeit in Ungarn
+或者在一个民主系统向独裁过渡的时候，比如当今的匈牙利，也有可能发生
+Oder dass sich ein demokratisches System zur Diktatur wandelt, wie es derzeit in Ungarn geschehen könnte -
 
 72
 00:04:32,550 --> 00:04:36,590
-geschehen könnte - die Aussage "...hat auch
-nichts zu befürchten." geht davon aus, dass
+“……（这）没有什么可担心的”的意思是说，国家永远是正确的——即使在他犯错误或者滥用职权的时候。
+die Aussage "...hat auch nichts zu befürchten." geht davon aus, dass
 
 73
 00:04:36,590 --> 00:04:40,780
-der Staat immer recht hat - selbst wenn er
-sich irrt oder seine Macht missbraucht.
+
+der Staat immer recht hat - selbst wenn er sich irrt oder seine Macht missbraucht.
 
 74
 00:04:40,780 --> 00:04:46,119
-Der Brite Leigh Van Bryan twitterte Anfang
-2012 über eine bevorstehende Reise nach Amerika,
+有个叫雷•范•布莱恩的英国小伙子在2012年初推特他要去美国旅行的事情，
+Der Brite Leigh Van Bryan twitterte Anfang 2012 über eine bevorstehende Reise nach Amerika,
 
 75
 00:04:46,120 --> 00:04:50,440
-dass er es "zerstören" und "Marilyn Monroe
-aus ihrem Grab schaufeln" wolle.
+他说他要“毁了”美国，还想把“玛丽莲•梦露从墓里挖出来”。
+dass er es "zerstören" und "Marilyn Monroe aus ihrem Grab schaufeln" wolle.
 
 76
 00:04:50,440 --> 00:04:55,380
-"destroy America" - gemeint war selbstverständlich
-"Party machen, sich besaufen". Die US-Einreisebehörden,
+而他“毁了美国”的方式不过就是“开趴，彻夜狂欢”。
+"destroy America" - gemeint war selbstverständlich "Party machen, sich besaufen". Die US-Einreisebehörden,
 
 77
 00:04:55,380 --> 00:04:59,560
-die offenbar Twitter nach genau dieser Phrase
-absuchten, verstanden keinen Spass, durchsuchten
-
+美国移民局根据他这句废话公开搜寻了他的推特之后，一点都不觉得好玩，
+die offenbar Twitter nach genau dieser Phrase absuchten, verstanden keinen Spass, 
 78
 00:04:59,560 --> 00:05:03,020
-sein Gepäck nach Spaten und schickten ihn
-und seine Begleiterin in Handschellen zuerst
+以搜查铲子为缘由检查了他的行李，并且把他和他的女同伴带上手铐一起送进监狱，之后送回英国。
+durchsuchten sein Gepäck nach Spaten und schickten ihn und seine Begleiterin in Handschellen zuerst
 
 79
 00:05:03,020 --> 00:05:05,650
+
 ins Gefängnis und danach zurück nach Grossbritannien.
 
 80
 00:05:05,650 --> 00:05:09,460
-Noch schlimmer erging es Justin Carter, einem
-Teenager aus Texas, der nach einer Partie
+德州的小伙子贾斯汀•卡特就更倒霉了，
+Noch schlimmer erging es Justin Carter, einem Teenager aus Texas, der nach einer Partie
 
 81
 00:05:09,460 --> 00:05:13,919
-"League of Legends" von einem Facebook-Bekannten
-"total fertig im Kopf" genannt wurde.
+他在英雄联盟里面被Facebook上的一个好友称作“神经病”。
+"League of Legends" von einem Facebook-Bekannten "total fertig im Kopf" genannt wurde.
 
 82
 00:05:13,919 --> 00:05:18,150
