@@ -116,57 +116,55 @@ dieses Video hier ansiehst.
 
 24
 00:01:30,100 --> 00:01:34,390
-Manche Arten der Überwachung sind auch so
-schon seit vielen Jahren in Deutschland möglich
+在德国有些监视的方法很多年前就可以实现了
+Manche Arten der Überwachung sind auch so schon seit vielen Jahren in Deutschland möglich
 
 25
 00:01:34,390 --> 00:01:38,640
--- zum Beispiel das Abhören von Telefonaten,
-Chats oder E-Mails zur Bekämpfung von Terrorismus
+比如说监听电话，聊天记录和 E-Mails, 为了对抗恐怖主义或有组织的犯罪。
+-- zum Beispiel das Abhören von Telefonaten, Chats oder E-Mails zur Bekämpfung von Terrorismus und organisierter Kriminalität. 
 
 26
 00:01:38,640 --> 00:01:43,560
-und organisierter Kriminalität. Richter können dafür
-im Einzelfall einen sogenannten Lauschangriff anordnen.
+法官可以在特殊情况下指定一种窃听措施。
+Richter können dafür im Einzelfall einen sogenannten Lauschangriff anordnen.
 
 27
 00:01:43,560 --> 00:01:46,930
+但是当我们现在开始不加选择地监听每个电话
 Doch, was, wenn wir ab sofort einfach JEDES Telefonat,
 
 28
 00:01:46,930 --> 00:01:50,990
-JEDEN Chat und JEDE E-Mail ohne
-Verdacht überprüfen würden?
+检查每个聊天记录，每封 E-Mail 的内容，
+JEDEN Chat und JEDE E-Mail ohne Verdacht überprüfen würden,
 
 29
 00:01:50,990 --> 00:01:54,250
-Könnten wir dann nicht Verbrechen und Terror
-für alle Zeiten verhindern?
+我们岂不是能够阻止所有时间的一切犯罪和恐怖活动了吗？
+Könnten wir dann nicht Verbrechen und Terror für alle Zeiten verhindern?
 
 30
 00:01:54,250 --> 00:01:59,230
-Vielleicht für kurze Zeit - doch es ist wahrscheinlicher,
-dass Befürworter dieser Idee den Einfallsreichtum
+可能只能短时间内奏效。 － 但极有可能的是，这些赞成全方位监视的的人低估了罪犯的想象力。
+Vielleicht für kurze Zeit - doch es ist wahrscheinlicher, dass Befürworter dieser Idee den Einfallsreichtum von Kriminellen unterschätzen:
 
 31
 00:01:59,230 --> 00:02:03,259
-von Kriminellen unterschätzen: Wer nicht
-entdeckt werden will, findet immer einen Weg
+如果他们不想被发现，他们总能找到方法
+Wer nicht entdeckt werden will, findet immer einen Weg
 
 32
 00:02:03,259 --> 00:02:07,000
-- z.B. durch starke Verschlüsselung oder
-persönliche Gespräche an Orten, wo Überwacher
+- z.B. durch starke Verschlüsselung oder persönliche Gespräche an Orten, wo Überwacher
 
 33
 00:02:07,000 --> 00:02:11,470
-keinen Zugriff haben - und die Leidtragenden
-sind ausgerechnet ganz normale, unschuldige
+keinen Zugriff haben - und die Leidtragenden sind ausgerechnet ganz normale, unschuldige Bürger, 
 
 34
 00:02:11,470 --> 00:02:14,230
-Bürger, denen fortan der Staat bei allem,
-was sie tun, über die Schulter blickt.
+denen fortan der Staat bei allem, was sie tun, über die Schulter blickt.
 
 35
 00:02:14,230 --> 00:02:19,319
