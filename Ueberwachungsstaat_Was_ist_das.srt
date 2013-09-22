@@ -156,14 +156,17 @@ Wer nicht entdeckt werden will, findet immer einen Weg
 
 32
 00:02:03,259 --> 00:02:07,000
-- z.B. durch starke Verschlüsselung oder persönliche Gespräche an Orten, wo Überwacher
+－ 比如说把信息强加密或者找个监视无法触及的地方说悄悄话 －
+- z.B. durch starke Verschlüsselung oder persönliche Gespräche an Orten, wo Überwacher keinen Zugriff haben - 
 
 33
 00:02:07,000 --> 00:02:11,470
-keinen Zugriff haben - und die Leidtragenden sind ausgerechnet ganz normale, unschuldige Bürger, 
+那些过平常日子的无辜平民就恰恰成了受监视之苦的人了。
+und die Leidtragenden sind ausgerechnet ganz normale, unschuldige Bürger, 
 
 34
 00:02:11,470 --> 00:02:14,230
+他们从此以后的一切生活细节都会被政府尽收眼底。
 denen fortan der Staat bei allem, was sie tun, über die Schulter blickt.
 
 35
