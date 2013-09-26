@@ -15,13 +15,13 @@ www.MyDict.org
 3
 00:00:05,410 --> 00:00:09,589
 受政府监视的国家就是
-一个国家以完全合法的形式，
+一个国家以完全合法的形式来监视本国居民的所有行为、
 Unter einem Überwachungsstaat versteht man
 einen Staat, der ganz legal alles Handeln,
 
 4
 00:00:09,589 --> 00:00:13,679
-来监视本国居民的住所以及他们的朋友，
+他们的住所以及朋友，
 以阻止犯罪行为，
 die Aufenthaltsorte und Freunde seiner Bürger
 überwacht, um Straftaten zu verhindern,
