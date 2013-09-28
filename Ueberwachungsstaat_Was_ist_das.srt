@@ -9,109 +9,144 @@ www.MyDict.org
 
 2
 00:00:03,190 --> 00:00:05,410
+受政府监视的国家-这究竟意味什么？
 Überwachungsstaat - was ist das überhaupt?
 
 3
 00:00:05,410 --> 00:00:09,589
+受政府监视的国家就是
+一个国家以完全合法的形式来监视本国居民的所有行为、
 Unter einem Überwachungsstaat versteht man
 einen Staat, der ganz legal alles Handeln,
 
 4
 00:00:09,589 --> 00:00:13,679
+他们的住所以及朋友，
+以阻止犯罪行为的发生，
 die Aufenthaltsorte und Freunde seiner Bürger
 überwacht, um Straftaten zu verhindern,
 
 5
 00:00:13,679 --> 00:00:16,830
+或者为了更快的破案。
+这乍一听起来是一个多好的主意呀：
 oder um sie schneller aufzuklären.
 Das klingt doch erst mal nach einer ganz guten Idee:
 
 6
 00:00:16,830 --> 00:00:21,570
-Straftaten werden verhindert, und alle sind
-sicherer. Trotzdem ist der Begriff negativ geprägt
+犯罪行为得以制止、所有人都更安全。
+然而，这个概念却蕴涵贬义。
+Straftaten werden verhindert, und alle sind sicherer. 
+Trotzdem ist der Begriff negativ geprägt
 
 7
 00:00:21,570 --> 00:00:23,370
+原因是什么呢？
 Woran liegt das?
 
 8
 00:00:23,870 --> 00:00:27,460
-Eine der wichtigsten Aufgaben eines Staates
-ist es, für Sicherheit seiner Bürger zu sorgen.
+国家最重要的职能之一就是，
+确保其民众的安全。
+Eine der wichtigsten Aufgaben eines Staates ist es, 
+für Sicherheit seiner Bürger zu sorgen.
 
 9
 00:00:27,460 --> 00:00:31,900
+同时，它也必须给予民众自由，
+只有这样，每个人才能以自己的方式来安排生活。
 Gleichzeitig muss er ihnen auch Freiheiten
-zugestehen, damit jeder sein Leben individuell
-
+zugestehen, damit jeder sein Leben individuell 
 10
 00:00:31,900 --> 00:00:36,199
+安全和自由相互补充，
+却又相互制约，
 gestalten kann. Sicherheit und Freiheit ergänzen
 sich, weisen sich aber auch in Schranken,
 
 11
 00:00:36,199 --> 00:00:40,260
+因为，自由总是与风险相伴，
+而安全也总是限制自由。
 denn Freiheit ist immer mit Risiken verbunden
 und Sicherheit schränkt immer auch Freiheiten ein.
 
 12
 00:00:40,260 --> 00:00:45,248
+因此，民主国家已达成妥协，
+将自由和安全最好的一面统一起来。
+
 In Demokratien hat sich daher ein Kompromiss etab-
 liert, welcher das Beste aus beiden Welten vereint.
 
 13
 00:00:45,249 --> 00:00:49,489
+而在一个受政府监视的国家却恰恰相反，
+自由因为过度强调安全需要而
 In einem Überwachungsstaat dagegen wird die
 Freiheit durch übertriebene Sicherheitsbedürfnisse
 
 14
 00:00:49,489 --> 00:00:53,260
-eingeschränkt -- und das ist auch schon sein
-größtes Problem.
+被限制--这就是这个国家存在的最大问题。
+eingeschränkt -- und das ist auch schon sein größtes Problem.
 
 15
 00:00:53,260 --> 00:00:58,479
+最近热门的话题就是数据备份，
+为了反恐，
 Zuletzt aktuell war das Thema bei der sogenannten
 Vorratsdatenspeicherung, bei der zur Terrorabwehr
 
 16
 00:00:58,479 --> 00:01:01,839
-alle Telefon- und Internetverbindungsdaten für
-6 Monate gespeichert werden sollten.
+所有的电话和网络数据都将被存储6个月。
+alle Telefon- und Internetverbindungsdaten für6 Monate gespeichert werden sollten.
 
 17
 00:01:01,839 --> 00:01:06,480
+虽然对这些数据的备份和使用
+存在着巨大的争议，联邦立法院
 Und obwohl die Speicherung und ihr Nutzen
 als heftig umstritten galt, und vom Bundesverfassungsgericht
 
 18
 00:01:06,480 --> 00:01:10,900
+也禁止此行为，但是，目前看来，这种行为
+与PRISM和TEMPORA（英国和美国政府的监视项目）相比，
+
 verboten wurde, erscheint sie heute fast harmlos
 gegenüber PRISM und TEMPORA - den beiden
 
 19
 00:01:10,900 --> 00:01:14,970
+几乎是无害的。这些监视项目也针对居住在德国的我们。
 Überwachungsprogrammen der britischen und
 amerikanischen Regierung, die auch uns in
 
 20
 00:01:14,970 --> 00:01:18,530
+因为，英美的监控项目不仅备份电话数据，而是
 Deutschland betreffen. Diese speichern nämlich
 nicht nur Verbindungsdaten, sondern schlicht
 
 21
 00:01:18,530 --> 00:01:23,240
+几乎一切。包括我们每一个人在网络中的所做所为、
+通过英国和美国的服务器浏览的
 und einfach ALLES, was jeder von uns im Netz
 tut und über britische und amerikanische
 
 22
 00:01:23,240 --> 00:01:28,130
+每一个帖子、每一张图片：真的是一切。甚至包括，你现在
 Server läuft -- jeden Text und jedes Bild:
 wirklich alles. Sogar, dass du dir jetzt gerade
 
 23
 00:01:28,130 --> 00:01:29,810
+正在看这段视频。
 dieses Video hier ansiehst.
 
 24
