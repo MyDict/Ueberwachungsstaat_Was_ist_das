@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:00,001 --> 00:00:01,000
 迈迪字幕组荣誉出品
 www.MyDict.org
@@ -7,867 +7,999 @@ www.MyDict.org
 00:00:01,250 --> 00:00:02,750
 译员:Gross teonie
 
-2
-00:00:03,190 --> 00:00:05,410
-受政府监视的国家-这究竟意味什么？
-Überwachungsstaat - was ist das überhaupt?
-
 3
-00:00:05,410 --> 00:00:09,589
-受政府监视的国家就是
-一个国家以完全合法的形式来监视本国居民的所有行为、
-Unter einem Überwachungsstaat versteht man
-einen Staat, der ganz legal alles Handeln,
+00:00:03,190 --> 00:00:04,250
+受政府监视的国家
+Überwachungsstaat
 
 4
-00:00:09,589 --> 00:00:13,679
-他们的住所以及朋友，
-以阻止犯罪行为的发生，
-die Aufenthaltsorte und Freunde seiner Bürger
-überwacht, um Straftaten zu verhindern,
+00:00:04,350 --> 00:00:05,410
+这究竟意味什么？
+was ist das überhaupt?
 
 5
-00:00:13,679 --> 00:00:16,830
-或者为了更快的破案。
-这乍一听起来是一个多好的主意呀：
-oder um sie schneller aufzuklären.
-Das klingt doch erst mal nach einer ganz guten Idee:
+00:00:05,410 --> 00:00:07,449
+受政府监视的国家就是
+Unter einem Überwachungsstaat versteht man
 
 6
-00:00:16,830 --> 00:00:21,570
-犯罪行为得以制止、所有人都更安全。
-然而，这个概念却蕴涵贬义。
-Straftaten werden verhindert, und alle sind sicherer. 
-Trotzdem ist der Begriff negativ geprägt
+00:00:07,549 --> 00:00:09,589
+一个国家以完全合法的形式来监视本国居民的所有行为、
+einen Staat, der ganz legal alles Handeln,
 
 7
+00:00:09,589 --> 00:00:11,584
+他们的住所以及朋友，
+die Aufenthaltsorte und Freunde seiner Bürger überwacht,
+
+8
+00:00:11,684 --> 00:00:13,679
+以阻止犯罪行为的发生，
+um Straftaten zu verhindern,
+
+9
+00:00:13,679 --> 00:00:15,204
+或者为了更快的破案。
+oder um sie schneller aufzuklären.
+
+10
+00:00:15,304 --> 00:00:16,830
+这乍一听起来是一个多好的主意呀：
+Das klingt doch erst mal nach einer ganz guten Idee:
+
+11
+00:00:16,830 --> 00:00:17,940
+犯罪行为得以制止、
+Straftaten werden verhindert,
+
+12
+00:00:18,040 --> 00:00:19,150
+所有人都更安全。
+und alle sind sicherer.
+
+13
+00:00:19,250 --> 00:00:21,570
+然而，这个概念却蕴涵贬义。
+Trotzdem ist der Begriff negativ geprägt
+
+14
 00:00:21,570 --> 00:00:23,370
 原因是什么呢？
 Woran liegt das?
 
-8
-00:00:23,870 --> 00:00:27,460
-国家最重要的职能之一就是，
-确保其民众的安全。
-Eine der wichtigsten Aufgaben eines Staates ist es, 
-für Sicherheit seiner Bürger zu sorgen.
-
-9
-00:00:27,460 --> 00:00:31,900
-同时，它也必须给予民众自由，
-只有这样，每个人才能以自己的方式来安排生活。
-Gleichzeitig muss er ihnen auch Freiheiten
-zugestehen, damit jeder sein Leben individuell 
-10
-00:00:31,900 --> 00:00:36,199
-安全和自由相互补充，
-却又相互制约，
-gestalten kann. Sicherheit und Freiheit ergänzen
-sich, weisen sich aber auch in Schranken,
-
-11
-00:00:36,199 --> 00:00:40,260
-因为，自由总是与风险相伴，
-而安全也总是限制自由。
-denn Freiheit ist immer mit Risiken verbunden
-und Sicherheit schränkt immer auch Freiheiten ein.
-
-12
-00:00:40,260 --> 00:00:45,248
-因此，民主国家已达成妥协，
-将自由和安全最好的一面统一起来。
-
-In Demokratien hat sich daher ein Kompromiss etab-
-liert, welcher das Beste aus beiden Welten vereint.
-
-13
-00:00:45,249 --> 00:00:49,489
-而在一个受政府监视的国家却恰恰相反，
-自由因为过度强调安全需要而
-In einem Überwachungsstaat dagegen wird die
-Freiheit durch übertriebene Sicherheitsbedürfnisse
-
-14
-00:00:49,489 --> 00:00:53,260
-被限制--这就是这个国家存在的最大问题。
-eingeschränkt -- und das ist auch schon sein größtes Problem.
-
 15
-00:00:53,260 --> 00:00:58,479
-最近热门的话题就是数据备份，
-为了反恐，
-Zuletzt aktuell war das Thema bei der sogenannten
-Vorratsdatenspeicherung, bei der zur Terrorabwehr
+00:00:23,870 --> 00:00:25,615
+国家最重要的职能之一就是，
+Eine der wichtigsten Aufgaben eines Staates ist es,
 
 16
-00:00:58,479 --> 00:01:01,839
-所有的电话和网络数据都将被存储6个月。
-alle Telefon- und Internetverbindungsdaten für6 Monate gespeichert werden sollten.
+00:00:25,715 --> 00:00:27,460
+确保其民众的安全。
+für Sicherheit seiner Bürger zu sorgen.
 
 17
-00:01:01,839 --> 00:01:06,480
-虽然对这些数据的备份和使用
-存在着巨大的争议，联邦立法院
-Und obwohl die Speicherung und ihr Nutzen
-als heftig umstritten galt, und vom Bundesverfassungsgericht
+00:00:27,460 --> 00:00:29,630
+同时，它也必须给予民众自由，
+Gleichzeitig muss er ihnen auch Freiheiten zugestehen,
 
 18
-00:01:06,480 --> 00:01:10,900
-也禁止此行为，但是，目前看来，这种行为
-与PRISM和TEMPORA（英国和美国政府的监视项目）相比，
-
-verboten wurde, erscheint sie heute fast harmlos
-gegenüber PRISM und TEMPORA - den beiden
+00:00:29,730 --> 00:00:31,900
+只有这样，每个人才能以自己的方式来安排生活。
+damit jeder sein Leben individuell gestalten kann.
 
 19
-00:01:10,900 --> 00:01:14,970
-几乎是无害的。这些监视项目也针对居住在德国的我们。
-Überwachungsprogrammen der britischen und
-amerikanischen Regierung, die auch uns in
+00:00:31,900 --> 00:00:33,999
+安全和自由相互补充，
+Sicherheit und Freiheit ergänzen sich,
 
 20
-00:01:14,970 --> 00:01:18,530
-因为，英美的监控项目不仅备份电话数据，而是
-Deutschland betreffen. Diese speichern nämlich
-nicht nur Verbindungsdaten, sondern schlicht
+00:00:34,099 --> 00:00:36,199
+却又相互制约，
+weisen sich aber auch in Schranken,
 
 21
-00:01:18,530 --> 00:01:23,240
-几乎一切。包括我们每一个人在网络中的所做所为、
-通过英国和美国的服务器浏览的
-und einfach ALLES, was jeder von uns im Netz
-tut und über britische und amerikanische
+00:00:36,199 --> 00:00:38,179
+因为，自由总是与风险相伴，
+denn Freiheit ist immer mit Risiken verbunden
 
 22
-00:01:23,240 --> 00:01:28,130
-每一个帖子、每一张图片：真的是一切。甚至包括，你现在
-Server läuft -- jeden Text und jedes Bild:
-wirklich alles. Sogar, dass du dir jetzt gerade
+00:00:38,279 --> 00:00:40,260
+而安全也总是限制自由。
+und Sicherheit schränkt immer auch Freiheiten ein.
 
 23
-00:01:28,130 --> 00:01:29,810
-正在看这段视频。
-dieses Video hier ansiehst.
+00:00:40,260 --> 00:00:42,704
+因此，民主国家已达成妥协，
+In Demokratien hat sich daher ein Kompromiss etabliert,
 
 24
-00:01:30,100 --> 00:01:34,390
-在德国有些监视的方法很多年前就可以实现了
-Manche Arten der Überwachung sind auch so schon seit vielen Jahren in Deutschland möglich
+00:00:42,804 --> 00:00:45,248
+将自由和安全最好的一面统一起来。
+welcher das Beste aus beiden Welten vereint.
 
 25
-00:01:34,390 --> 00:01:38,640
-比如说监听电话，聊天记录和 E-Mails, 为了对抗恐怖主义或有组织的犯罪。
--- zum Beispiel das Abhören von Telefonaten, Chats oder E-Mails zur Bekämpfung von Terrorismus und organisierter Kriminalität. 
+00:00:45,249 --> 00:00:47,319
+而在一个受政府监视的国家却恰恰相反，
+In einem Überwachungsstaat dagegen wird
 
 26
-00:01:38,640 --> 00:01:43,560
-法官可以在特殊情况下指定一种窃听措施。
-Richter können dafür im Einzelfall einen sogenannten Lauschangriff anordnen.
+00:00:47,419 --> 00:00:49,489
+自由因为过度强调安全需要而被限制
+die Freiheit durch übertriebene Sicherheitsbedürfnisse eingeschränkt
 
 27
+00:00:49,489 --> 00:00:53,260
+--这就是这个国家存在的最大问题。
+-- und das ist auch schon sein größtes Problem.
+
+28
+00:00:53,260 --> 00:00:54,489
+最近热门的话题就是
+Zuletzt aktuell war das Thema
+
+29
+00:00:54,589 --> 00:00:55,819
+数据备份
+bei der sogenannten Vorratsdatenspeicherung,
+
+30
+00:00:55,919 --> 00:00:58,479
+为了反恐，
+bei der zur Terrorabwehr
+
+31
+00:00:58,479 --> 00:01:00,109
+所有的电话和网络数据
+alle Telefon- und Internetverbindungsdaten
+
+32
+00:01:00,209 --> 00:01:01,839
+都应该被存储6个月。
+für 6 Monate gespeichert werden sollten.
+
+33
+00:01:01,839 --> 00:01:06,480
+虽然对这些数据的备份和使用存在着巨大的争议，
+Und obwohl die Speicherung und ihr Nutzen als heftig umstritten galt,
+联邦立法院也禁止此行为，
+und vom Bundesverfassungsgericht verboten wurde,
+
+34
+00:01:06,480 --> 00:01:10,900
+目前看来，这种行为要是跟PRISM和TEMPORA相比的话，几乎是无害的，
+erscheint sie heute fast harmlos gegenüber PRISM und TEMPORA
+
+35
+00:01:10,900 --> 00:01:14,970
+- 这两个项目就是英国和美国政府的监视项目，
+- den beiden Überwachungsprogrammen der britischen und amerikanischen Regierung,
+
+36
+00:01:14,970 --> 00:01:18,530
+这些监视项目也针对我们这些在德国居住的。
+die auch uns in Deutschland betreffen.
+英美的监控项目不仅备份电话数据，
+Diese speichern nämlich nicht nur Verbindungsdaten,
+
+37
+00:01:18,530 --> 00:01:23,240
+而是几乎一切。
+sondern schlicht und einfach ALLES,
+包括我们每一个人在网络中的所做所为、
+was jeder von uns im Netz tut
+通过英国和美国的服务器浏览的
+und über britische und amerikanische Server läuft
+
+38
+00:01:23,240 --> 00:01:28,130
+-- 每一个帖子、每一张图片：真的是一切。
+-- jeden Text und jedes Bild: wirklich alles.
+
+39
+00:01:28,130 --> 00:01:29,810
+甚至包括，你现在正在看这段视频。
+Sogar, dass du dir jetzt gerade dieses Video hier ansiehst.
+
+40
+00:01:30,100 --> 00:01:34,390
+在德国有些监视的方法
+Manche Arten der Überwachung
+很多年前就可以实现了
+sind auch so schon seit vielen Jahren in Deutschland möglich
+
+41
+00:01:34,390 --> 00:01:38,640
+-- 比如说监听电话，聊天记录和 E-Mails,
+-- zum Beispiel das Abhören von Telefonaten, Chats oder E-Mails
+为了对抗恐怖主义或有组织的犯罪。
+zur Bekämpfung von Terrorismus und organisierter Kriminalität.
+
+42
+00:01:38,640 --> 00:01:43,560
+法官可以在特殊情况下
+Richter können dafür im Einzelfall
+指定一种窃听措施。
+einen sogenannten Lauschangriff anordnen.
+
+43
 00:01:43,560 --> 00:01:46,930
 但是当我们现在开始不加选择地监听每个电话
 Doch, was, wenn wir ab sofort einfach JEDES Telefonat,
 
-28
+44
 00:01:46,930 --> 00:01:50,990
 检查每个聊天记录，每封 E-Mail 的内容，
 JEDEN Chat und JEDE E-Mail ohne Verdacht überprüfen würden,
 
-29
+45
 00:01:50,990 --> 00:01:54,250
 我们岂不是能够阻止所有时间的一切犯罪和恐怖活动了吗？
 Könnten wir dann nicht Verbrechen und Terror für alle Zeiten verhindern?
 
-30
+46
 00:01:54,250 --> 00:01:59,230
-可能只能短时间内奏效。 － 但极有可能的是，这些赞成全方位监视的的人低估了罪犯的想象力。
-Vielleicht für kurze Zeit - doch es ist wahrscheinlicher, dass Befürworter dieser Idee den Einfallsreichtum von Kriminellen unterschätzen:
+可能只能短时间内奏效。
+Vielleicht für kurze Zeit
+- 但极有可能的是，
+- doch es ist wahrscheinlicher,
+这些赞成全方位监视的的人
+dass Befürworter dieser Idee
+低估了罪犯的想象力。
+den Einfallsreichtum von Kriminellen unterschätzen:
 
-31
+47
 00:01:59,230 --> 00:02:03,259
 如果他们不想被发现，他们总能找到方法
 Wer nicht entdeckt werden will, findet immer einen Weg
 
-32
+48
 00:02:03,259 --> 00:02:07,000
-－ 比如说把信息强加密或者找个监视无法触及的地方说悄悄话 －
-- z.B. durch starke Verschlüsselung oder persönliche Gespräche an Orten, wo Überwacher keinen Zugriff haben - 
+－ 比如说把信息强加密
+- z.B. durch starke Verschlüsselung
+或者找个监视无法触及的地方说悄悄话 －
+oder persönliche Gespräche an Orten, wo Überwacher keinen Zugriff haben -
 
-33
+49
 00:02:07,000 --> 00:02:11,470
-那些过平常日子的无辜平民就恰恰成了受监视之苦的人了。
-und die Leidtragenden sind ausgerechnet ganz normale, unschuldige Bürger, 
+而受监视之苦的人
+und die Leidtragenden sind
+就是那些过平常日子的无辜平民了。
+ausgerechnet ganz normale, unschuldige Bürger,
 
-34
+50
 00:02:11,470 --> 00:02:14,230
 他们从此以后的一切生活细节都会被政府尽收眼底。
 denen fortan der Staat bei allem, was sie tun, über die Schulter blickt.
 
-35
-00:02:14,230 --> 00:02:19,319
-谁要是在 Facebook 上看到过他妈妈，老师或者老板想要加他为好友，
-Wer schon einmal auf Facebook eine Freundschaftsanfrage von Mutti, dem Lehrer oder Chef erhalten hat,
-
-36
-00:02:19,319 --> 00:02:22,489
-就大概能体会到，当你被监视的时候，那种感觉是怎样的。
-kann vielleicht nachvollziehen, wie es sich anfühlt, wenn man überwacht wird.
-
-37
-00:02:22,490 --> 00:02:25,930
-你真的愿意让父母看到你朋友传上去的你抽烟的照片？
-Will ich wirklich, dass die Eltern sehen, wie mich meine Freunde beim Rauchen fotografiert und getagt haben?
-
-38
-00:02:25,930 --> 00:02:30,300
-愿意在泡病号的时候在家上网聊天吐槽老板，
-Und will ich vom Arbeitgeber online beim Lästern erwischt werden, oder beim chatten
-
-39
-00:02:30,300 --> 00:02:32,380
-结果却被老板抓个正着？
-wenn ich eigentlich mit Fieber im Bett liegen sollte?
-
-40
-00:02:32,380 --> 00:02:36,540
-汤博乐和九笑网里这种倒霉蛋可不少见，
-tumblr und 9gag sind voll mit Beispielen, in denen unvorsichtige Pechvögel über den
-
-41
-00:02:36,540 --> 00:02:40,810
-才在博文里骂了老板，下一秒挨骂的人就出现在评论里了。
-eigenen Chef hergezogen haben und im Kommentar darunter von diesem gefeuert wurden, oder
-
-42
-00:02:40,810 --> 00:02:45,440
-或者老妈在他吸K粉的照片下咆哮”赶紧给老娘滚回来跪搓衣板！”
-Kifferbeichten, die von den Eltern mit "Komm mal nach Hause, Junge, wir müssen reden" beantwortet wurden.
-
-43
-00:02:45,440 --> 00:02:47,650
-政府监视的国家就像一直关注着你动态的网友，
-Ein Überwachungsstaat, der immer mitliest
-
-44
-00:02:47,650 --> 00:02:51,700
-只是你无法对他设黑名单。
-ist im Prinzip nichts anderes - nur dass man hier nicht die Wahl hat, dessen
-
-45
-00:02:51,700 --> 00:02:52,750
-Freundschaftsanfrage abzulehnen.
-
-46
-00:02:52,750 --> 00:02:57,370
-这种监视禁锢着人们思想，限制一切行动或者言论自由。
-Was aus dieser Überwachung folgt, ist die Schere im Kopf: Alles, was man sagt oder tut,
-
-47
-00:02:57,370 --> 00:03:01,400
-于是，人们压抑住不快，把不和谐的言论放在心里，
-was kontrovers sein könnte, behält man lieber für sich und vermeidet möglichen Ärger
-
-48
-00:03:01,400 --> 00:03:04,720
-尽管他们知道，自己的行为完全合法。
-- und zwar sogar dann, wenn man eigentlich davon ausgeht, dass das, was man tut, völlig legal ist.
-
-49
-00:03:04,720 --> 00:03:09,880
-出于恐惧，批判性的言辞和讨论常受到限制。
-Selbst kritische Diskussion und Meinungsäußerungen werden so aus Angst eingeschränkt.
-
-50
-00:03:09,880 --> 00:03:13,480
-支持政府监视的人争辩道，没有秘密的人不会害怕。
-Befürworter von Überwachung argumentieren, dass doch jemand, der nichts zu verbergen hat
-
 51
-00:03:13,480 --> 00:03:17,269
-这完完全全是诡辩，
-auch gar nichts zu befürchten habe. Doch leider ist an dieser Behauptung einiges falsch.
+00:02:14,230 --> 00:02:19,319
+谁要是在 Facebook 上看到过有人想要加他为好友，
+Wer schon einmal auf Facebook eine Freundschaftsanfrage
+比如他妈妈，老师或者老板，
+von Mutti, dem Lehrer oder Chef erhalten hat,
 
 52
-00:03:17,270 --> 00:03:19,950
-这里牵扯到政府和人民双方，
-Es geht um das Verhältnis zwischen Staat
+00:02:19,319 --> 00:02:22,489
+就大概能体会到，
+kann vielleicht nachvollziehen,
+当你被监视的时候，那种感觉是怎样的。
+wie es sich anfühlt, wenn man überwacht wird.
 
 53
-00:03:19,950 --> 00:03:23,619
-既然这个观点认为，人民藏有秘密才会害怕监视。
-und Bürger. Es bedeutet, dass der Bürger etwas zu befürchten habe, wenn er etwas zu
+00:02:22,490 --> 00:02:25,930
+我真的愿意让父母看到
+Will ich wirklich, dass die Eltern sehen,
+我的朋友上传我抽烟的照片并在我的脸上标注我的名字？
+wie mich meine Freunde beim Rauchen fotografiert und getagt haben?
 
 54
-00:03:23,620 --> 00:03:28,180
-那么政府为什么要设立情报机构保管秘密呢？
-verbergen hat. Gilt das auch umgekehrt für Geheimdienste, deren Namen ja schon preisgibt,
+00:02:25,930 --> 00:02:30,300
+难道我愿意在网上吐槽老板的时候被他被抓个正着，
+Und will ich vom Arbeitgeber online beim Lästern erwischt werden,
 
 55
-00:03:28,180 --> 00:03:31,230
-为什么政府设立情报局是合法的，
-dass sie etwas verbergen? Wieso sollte man davon ausgehen, dass die
+00:02:30,300 --> 00:02:32,380
+或者谎称报病卧床，却被老板发现自己在网上版聊？
+oder beim chatten wenn ich eigentlich mit Fieber im Bett liegen sollte?
 
 56
-00:03:31,230 --> 00:03:35,230
-人民的个人隐私就不受法律保护呢？
-Geheimnisse des Staates immer legitim sind, während die Geheimnisse der Bürger es grundsätzlich nicht sein sollen?
+00:02:32,380 --> 00:02:36,540
+tumblr(轻博客)和9gag(潮语：搞GAG)网站上这种倒霉蛋可不少见，
+tumblr und 9gag sind voll mit Beispielen,
 
 57
-00:03:35,230 --> 00:03:38,420
-被监视让人觉得不舒服，这一点常被政府忽视，
-nicht sein sollen? Dass Überwachung für einen einzelnen unangenehm
+00:02:36,540 --> 00:02:40,810
+他们刚在网上损了老板，
+in denen unvorsichtige Pechvögel über den eigenen Chef hergezogen haben
+老板就在下面的留言里把他们解雇了。
+und im Kommentar darunter von diesem gefeuert wurden,
 
 58
-00:03:38,420 --> 00:03:42,670
-因为他们认为“没有秘密就不会害怕“，
-sein könnte, wird ebenfalls ignoriert - wo wir wieder bei "hat auch nichts zu befürchten" wären.
+00:02:40,810 --> 00:02:45,440
+还有的人晒自己吸大麻的照片
+oder Kifferbeichten,
+父母在相片下留言
+die von den Eltern mit
+“滚回家！儿子，
+"Komm mal nach Hause, Junge,
+我们要聊一聊”
+wir müssen reden" beantwortet wurden.
 
 59
-00:03:42,670 --> 00:03:46,929
-可就算最正直守法的公民，也会害怕被这样监视着。
-Ein völlig Unschuldiger hat sehr wohl unangenehme "Überwachung" zu befürchten.
+00:02:45,440 --> 00:02:47,650
+一个受政府监视的国家
+Ein Überwachungsstaat, 
 
 60
-00:03:46,930 --> 00:03:50,900
-至于国家强制措施，比如待审拘留呢？
-Und was ist mit staatlichen Zwangsmassnahmen, wie der Untersuchungshaft? 
+00:02:47,650 --> 00:02:51,700
+就像一个一直关注你动态的网友，
+der immer mitliest ist im Prinzip nichts anderes
+只是你没有选择
+- nur dass man hier nicht die Wahl hat, 
 
 61
-00:03:50,900 --> 00:03:55,430
-在英国，公民可不经由任何控告被关押最长至14天
-In Grossbritannien können Personen bis zu 14 Tage ohne Anklage festgehalten werden. 
+00:02:51,700 --> 00:02:52,750
+你无法拒绝它的好友申请。
+dessen Freundschaftsanfrage abzulehnen.
 
 62
-00:03:55,430 --> 00:03:59,640
-就算最后证实对你的怀疑是错误的，也不会有任何针对剥夺你个人自由的赔偿。认倒霉吧。
-Sollte sich der Verdacht als falsch herausstellen, gibt es keine Entschädigung für den Freiheitsentzug. Pech gehabt.
+00:02:52,750 --> 00:02:57,370
+这种监视的结果，
+Was aus dieser Überwachung folgt, 
+就是要求大家对自己的所说所行都进行自我审查：
+ist die Schere im Kopf: Alles, was man sagt oder tut,
 
 63
-00:03:59,640 --> 00:04:03,500
-在德国也是这样，由于电脑里面的软件、
-Ähnliches gilt in Deutschland, wenn aufgrund eines Verdachts Computerhardware 
+00:02:57,370 --> 00:03:01,400
+于是，人们可能口是心非
+was kontrovers sein könnte, 
+大家守口如瓶，以避免不必要的麻烦
+behält man lieber für sich und vermeidet möglichen Ärger
 
 64
-00:04:03,500 --> 00:04:07,319
-企业内部的数据或者来自他人的控告而受到怀疑被关押起来————这都是常有的事儿！
-oder Daten von Unternehmen oder Privatpersonen beschlagnahmt werden - was regelmässig geschieht!
+00:03:01,400 --> 00:03:04,720
+- 就算在他们假定
+- und zwar sogar dann, wenn man eigentlich davon ausgeht, 
+自己的行为完全合法的情况下。
+dass das, was man tut, völlig legal ist.
 
 65
-00:04:07,319 --> 00:04:12,089
-即使最后证明你是清白的，你还是会继续受到伤害。
-Und selbst wenn sich danach die Unschuld herausstellt, bleiben die Betroffenen auf dem Schaden sitzen.
+00:03:04,720 --> 00:03:09,880
+甚至批判性的讨论和言辞
+Selbst kritische Diskussion und Meinungsäußerungen
+常常因为恐惧的原因受到限制。
+werden so aus Angst eingeschränkt.
 
 66
-00:04:12,090 --> 00:04:13,489
-因为警察会将之前没收的器材和数据经年累月地保存起来。
-denn die Polizei kann beschlagnahmte Geräte
+00:03:09,880 --> 00:03:13,480
+支持政府监视的人争辩道，
+Befürworter von Überwachung argumentieren, 
+没有什么秘密要隐藏的人
+dass doch jemand, der nichts zu verbergen
+就没有什么好害怕的。
+hat auch gar nichts zu befürchten habe.
 
 67
-00:04:13,489 --> 00:04:15,629
-und Daten über Monate bis Jahre behalten.
+00:03:13,480 --> 00:03:17,269
+但很遗憾的是这个论调有错误百出。
+Doch leider ist an dieser Behauptung einiges falsch.
 
 68
-00:04:15,629 --> 00:04:20,168
-“……（这）没有什么可担心的”这句话只在民众范围内适用，
-Die Aussage "... hat auch nichts zu befürchten." geht auch davon aus, dass das allein am Verhalten des Bürgers liegt - 
+00:03:17,270 --> 00:03:19,950
+这里牵扯到政府和公民双方。
+Es geht um das Verhältnis zwischen Staat und Bürger.
 
 69
-00:04:20,168 --> 00:04:24,469
-而非适用在民众面对国家的时候。
-nicht jedoch am Staat. Dabei ist es genauso möglich, 
+00:03:19,950 --> 00:03:23,619
+这个观点认为，当公民想要隐藏什么的时候
+Es bedeutet, dass der Bürger etwas zu befürchten habe, 
+才会害怕。
+wenn er etwas zu verbergen hat.
 
 70
-00:04:24,470 --> 00:04:28,699
-这种情况还有可能发生在扩充法律条文的时候，哪怕之前一切正常，如今也会突然间变成值得怀疑的时刻。（这句话不太确定）
-dass sich Gesetze verschärfen und was vorher unproblematisch war, wird plötzlich zum Verdachtsmoment.
+00:03:23,620 --> 00:03:28,180
+反过来这个论调对政府的情报局也适用，
+Gilt das auch umgekehrt für Geheimdienste, 
+“情报局”这个名字就泄露了这个机构在隐藏了很多秘密。
+deren Namen ja schon preisgibt, dass sie etwas verbergen?
 
 71
+00:03:28,180 --> 00:03:31,230
+为什么公民要假定
+Wieso sollte man davon ausgehen, 
+政府设的小秘密是合法的，
+dass die Geheimnisse des Staates immer legitim sind,
+
+72
+00:03:31,230 --> 00:03:35,230
+而公民的小秘密基本上就应该是不合法呢？
+während die Geheimnisse der Bürger es grundsätzlich nicht sein sollen?
+
+73
+00:03:35,230 --> 00:03:38,420
+被监视可能会让一个人感觉不舒服，
+Dass Überwachung für einen einzelnen unangenehm sein könnte,
+这一点也被忽视了，
+wird ebenfalls ignoriert 
+
+74
+00:03:38,420 --> 00:03:42,670
+- 因为他们认为“没有秘密就不会害怕“，
+- wo wir wieder bei "hat auch nichts zu befürchten" wären.
+
+75
+00:03:42,670 --> 00:03:46,929
+可就算最正直守法的公民，
+Ein völlig Unschuldiger 
+也会害怕这样让人浑身不自在的“监视”。
+hat sehr wohl unangenehme "Überwachung" zu befürchten.
+
+76
+00:03:46,930 --> 00:03:50,900
+说到国家强制措施，
+Und was ist mit staatlichen Zwangsmassnahmen, 
+比如待审拘留会怎样呢？
+wie der Untersuchungshaft?
+
+77
+00:03:50,900 --> 00:03:55,430
+在英国，
+In Grossbritannien 
+即使没有被控告，公民也可以被处以多达14天的监禁。
+können Personen bis zu 14 Tage ohne Anklage festgehalten werden.
+
+78
+00:03:55,430 --> 00:03:59,640
+就算最后证实对你的怀疑是错误的，
+Sollte sich der Verdacht als falsch herausstellen,
+也不会有任何针对剥夺你个人自由的赔偿。
+gibt es keine Entschädigung für den Freiheitsentzug.
+认倒霉吧。
+Pech gehabt.
+
+79
+00:03:59,640 --> 00:04:03,500
+在德国也是这样，
+Ähnliches gilt in Deutschland, 
+因为一个嫌疑
+wenn aufgrund eines Verdachts 
+
+80
+00:04:03,500 --> 00:04:07,319
+就把企业或个人的电脑以及数据
+Computerhardware oder Daten von Unternehmen oder Privatpersonen
+没收了
+beschlagnahmt werden 
+- 这都是常有的事！
+- was regelmässig geschieht!
+
+81
+00:04:07,319 --> 00:04:12,089
+即使最后证明他们是清白的，
+Und selbst wenn sich danach die Unschuld herausstellt,
+他们还受到了伤害。
+bleiben die Betroffenen auf dem Schaden sitzen.
+
+82
+00:04:12,090 --> 00:04:13,489
+因为警察会将没收的电脑和数据
+denn die Polizei kann beschlagnahmte Geräte und Daten
+
+83
+00:04:13,489 --> 00:04:15,629
+经年累月地保存起来。
+über Monate bis Jahre behalten.
+
+84
+00:04:15,629 --> 00:04:20,168
+“……也没有什么可担心的”这个看法假定
+Die Aussage "... hat auch nichts zu befürchten." geht auch davon aus, 
+只有公民的行为才可能有问题，
+dass das allein am Verhalten des Bürgers liegt
+
+85
+00:04:20,168 --> 00:04:24,469
+- 但国家不会。
+- nicht jedoch am Staat. 
+但以下这种情况也是一样有可能的：
+Dabei ist es genauso möglich,
+
+86
+00:04:24,470 --> 00:04:28,699
+当法律条文变得更加严厉的时候，
+dass sich Gesetze verschärfen 
+以前看来没有任何问题的行为，
+und was vorher unproblematisch war, 
+将会突然变成有可疑的事。
+wird plötzlich zum Verdachtsmoment.
+
+87
 00:04:28,699 --> 00:04:32,550
 或者在一个民主系统向独裁过渡的时候，比如当今的匈牙利，也有可能发生
 Oder dass sich ein demokratisches System zur Diktatur wandelt, wie es derzeit in Ungarn geschehen könnte -
 
-72
+88
 00:04:32,550 --> 00:04:36,590
 “……（这）没有什么可担心的”的意思是说，国家永远是正确的——即使在他犯错误或者滥用职权的时候。
 die Aussage "...hat auch nichts zu befürchten." geht davon aus, dass
 
-73
+89
 00:04:36,590 --> 00:04:40,780
 der Staat immer recht hat - selbst wenn er sich irrt oder seine Macht missbraucht.
 
-74
+90
 00:04:40,780 --> 00:04:46,119
 有个叫雷•范•布莱恩的英国小伙子在2012年初推特他要去美国旅行的事情，
 Der Brite Leigh Van Bryan twitterte Anfang 2012 über eine bevorstehende Reise nach Amerika,
 
-75
+91
 00:04:46,120 --> 00:04:50,440
 他说他要“毁了”美国，还想把“玛丽莲•梦露从墓里挖出来”。
 dass er es "zerstören" und "Marilyn Monroe aus ihrem Grab schaufeln" wolle.
 
-76
+92
 00:04:50,440 --> 00:04:55,380
 而他“毁了美国”的方式不过就是“开趴，彻夜狂欢”。
 "destroy America" - gemeint war selbstverständlich "Party machen, sich besaufen". Die US-Einreisebehörden,
 
-77
+93
 00:04:55,380 --> 00:04:59,560
 美国移民局根据他这句废话公开搜寻了他的推特之后，一点都不觉得好玩，
-die offenbar Twitter nach genau dieser Phrase absuchten, verstanden keinen Spass, 
+die offenbar Twitter nach genau dieser Phrase absuchten, verstanden keinen Spass,
 
-78
+94
 00:04:59,560 --> 00:05:03,020
 以搜查铲子为缘由检查了他的行李，并且把他和他的女同伴带上手铐一起送进监狱，之后送回英国。
 durchsuchten sein Gepäck nach Spaten und schickten ihn und seine Begleiterin in Handschellen zuerst
 
-79
+95
 00:05:03,020 --> 00:05:05,650
 ins Gefängnis und danach zurück nach Grossbritannien.
 
-80
+96
 00:05:05,650 --> 00:05:09,460
 德州的小伙子贾斯汀•卡特就更倒霉了，
 Noch schlimmer erging es Justin Carter, einem Teenager aus Texas, der nach einer Partie
 
-81
+97
 00:05:09,460 --> 00:05:13,919
 他在英雄联盟里面被Facebook上的一个好友称作“神经病”。
 "League of Legends" von einem Facebook-Bekannten "total fertig im Kopf" genannt wurde.
 
-82
+98
 00:05:13,919 --> 00:05:18,150
 他讽刺道“是啊，我是神经病，
-Seine sarkastische Antwort "Oh yeah, Ich bin total fertig im Kopf, 
+Seine sarkastische Antwort "Oh yeah, Ich bin total fertig im Kopf,
 
-83
+99
 00:05:18,150 --> 00:05:23,159
 我马上还要拿枪去一个小学杀人，然后吃他们还在跳的心脏，LOL(大笑).JK(开玩笑).
 ich werde jetzt eine Schule voller Kinder erschiessen und ihre schlagenden
-Herzen essen. LOL. JK.", 
+Herzen essen. LOL. JK.",
 
-84
+100
 00:05:23,160 --> 00:05:26,990
 这句话不仅给他带来了6个月的监禁，
 brachte ihn nicht nur für 6 Monate in den Knast
 
-85
+101
 00:05:26,990 --> 00:05:29,330
 他还必须因为所谓的恐吓罪面临可能长达10年的拘禁。
 er muss nun auch wegen angeblicher Terrordrohung mit einer Freiheitsstrafe von 10 Jahren rechnen.
 
-86
+102
 00:05:29,330 --> 00:05:33,609
 本来是无伤大雅的玩笑话，可能很快会被一本正经的政府部门误解
 Was als harmloser Scherz gemeint war, kann von ironie-resistenten Behörden schnell missverstanden
 
-87
+103
 00:05:33,610 --> 00:05:37,820
 并且会带来灾难性的后果。人们到底还能不能承受那些讽刺的话？
 werden und fatale Konsequenzen haben. Kann man sich Sarkasmus dann überhaupt noch leisten?
 
-88
+104
 00:05:37,820 --> 00:05:42,300
 他会给我们自由的思想带来什么后果呢？
-Und welche Auswirkung hat das auf die Freiheit und die Schere im Kopf, 
+Und welche Auswirkung hat das auf die Freiheit und die Schere im Kopf,
 
-89
+105
 00:05:42,300 --> 00:05:45,930
 如果每个人都必须提心吊胆地想着，他的隐私，他说的写的每一句话
-wenn jeder Angst haben muss, dass seine Privatsphäre und jedes Wort, das er sagt und schreibt, 
+wenn jeder Angst haben muss, dass seine Privatsphäre und jedes Wort, das er sagt und schreibt,
 
-90
+106
 00:05:45,930 --> 00:05:49,080
 都会由于可能违法，被政府审查，还有可能被错误的理解。
 von Behörden auf mögliche Rechtsverstösse überprüft, und dann noch womöglich falsch verstanden wird?
 
-91
+107
 00:05:49,080 --> 00:05:53,570
 之前柏林洪堡大学的研究员安德雷•荷姆就陷入了调查，
 Andrej Holm, ein wissenschaftlicher Mitarbeiter der Humboldt-Universität Berlin, geriet ins
 
-92
+108
 00:05:53,570 --> 00:05:58,110
 就是因为他在网上的一篇文章用了“中产阶级化”“雇佣临时工制”两个词。
 Visier von Fahndern, nachdem er in einem Online-Artikel die Worte "Gentrification" und "Prekarisierung"
 
-93
+109
 00:05:58,110 --> 00:06:02,850
 而恰恰这两个字之前出现在了对柏林警车袭击案的认罪书里。
 verwendet hatte. Die selben Worte waren zuvor in Bekennerschreiben bei Anschlägen auf Polizeifahrzeuge
 
-94
+110
 00:06:02,850 --> 00:06:06,990
 就是因为这个原因，荷姆和他的家人被严密地监视了一个月，
 in Berlin aufgetaucht, und aus genau diesem Grund wurde Holm und seine Familie erst monatelang
 
-95
+111
 00:06:06,990 --> 00:06:11,419
 之后在他的公寓中穿着短裤被搜查小组拘捕了，
 intensiv überwacht, dann in einem Überfallkommando in seiner Wohnung in Unterhosen verhaftet
 
-96
+112
 00:06:11,419 --> 00:06:13,650
 之后被羁押了3周。
 und schliesslich 3 Wochen in Untersuchungshaft gesteckt.
 
-97
+113
 00:06:13,650 --> 00:06:18,359
 最后荷姆被证实无罪，还是对他不可能不造成伤害。
 Dass Holm am Ende unschuldig war, machte den angerichteten Schaden natürlich nicht ungeschehen.
 
-98
+114
 00:06:18,360 --> 00:06:22,509
 尽管国家监视了好几个月他的生活和他的家庭的一切细节，
 Er muss damit leben, dass der Staat viele Monate lang intimste Details aus seinem Leben
 
-99
+115
 00:06:22,509 --> 00:06:27,759
 甚至在他被释放之后还持续了一段时间，他还是得继续生活下去。
 und dem seiner Familie überwachte, und dies sogar noch einige Zeit nach seiner Freilassung fortsetzte.
 
-100
+116
 00:06:27,759 --> 00:06:31,070
 在这期间，要想进入当局枪口的瞄准器中，根本无需刻意做些什么，
 Dabei ist es noch nicht einmal nötig, etwas dafür zu tun, um ins Visier von Behörden
 
-101
+117
 00:06:31,070 --> 00:06:35,680
 只要有一个错误的名字就足够了。三个来自美国的詹姆斯 罗宾逊
 zu geraten. Den falschen Namen zu haben reicht völlig aus. Drei James Robinsons aus den
 
-102
+118
 00:06:35,680 --> 00:06:38,870
 必须要了解，名字在恐怖分子监视名单上意味着什么。
 USA mussten erfahren, was es bedeutet, auf einer Terror-Watchlist zu stehen. Der eine
 
-103
+119
 00:06:38,870 --> 00:06:43,490
 他们一个是飞机驾驶员，一个是律师，第三个只是一个五岁的男孩——然而他们三个都
 ist Pilot, der nächste Anwalt, und der dritte ein 5-jähriger Junge - und alle drei werden
 
-104
+120
 00:06:43,490 --> 00:06:46,979
 因为他们的名字而被怀疑为恐怖分子，而且必须在乘坐飞机前
 aufgrund ihres Namens verdächtigt, Terroristen zu sein und müssen sich bei Flügen einer
 
-105
+121
 00:06:46,979 --> 00:06:51,130
 接受严格的检查，甚至要做好不被允许乘坐飞机的准备。
 intensiven Untersuchung stellen oder damit rechnen, nicht fliegen zu dürfen. Obwohl
 
-106
+122
 00:06:51,130 --> 00:06:55,340
 尽管他们三人都采取了行动来反对这样的差别对待，但是什么都没有改变。只有当他们
 alle drei gegen diese Behandlung vorgingen, änderte sich nichts. Erst als sie ihren Namen
 
-107
+123
 00:06:55,340 --> 00:07:00,008
 在预定机票时将他们的名字以另一种形式写出——例如“吉姆”，而不是詹姆斯，才有可能成功。
 bei Buchungen in anderer Form angaben - z.b. "Jim" statt James, konnten sie passieren.
 
-108
+124
 00:07:00,009 --> 00:07:04,180
 当恐怖分子监视名单完全错误时，它还有哪些价值？
 Welchen Wert hat eine Terror-Watchlist, wenn sie die völlig Falschen trifft, und welche
 
-109
+125
 00:07:04,180 --> 00:07:07,780
 而对另一种监控形式的可信性又会得出什么结论呢？
 Rückschlüsse lässt dies auf die Verlässlichkeit anderer Formen von Überwachung zu?
 
-110
+126
 00:07:07,780 --> 00:07:11,599
 还有更深层次的问题就是数据的滥用——这不仅仅意味着
 Ein weiteres Problem ist der Missbrauch von Daten - und damit ist nicht allein der Verkauf
 
-111
+127
 00:07:11,600 --> 00:07:15,740
 为了散发广告而贩卖私人住址这一事实上在当今德国
 von privaten Adressen zu WERBEzwecken gemeint, wie er in Deutschlands Einwohnermeldeämter
 
-112
+128
 00:07:15,740 --> 00:07:19,330
 户籍管理处已经合法而且普遍的行为，还意味着
 tatsächlich heute schon legal üblich ist, sondern auch die Verwendung ausspionierter
 
-113
+129
 00:07:19,330 --> 00:07:24,639
 处于监控下的私人信息被使用——外遇，你的性生活，或者政治立场：
 privater Dinge - seien es Seitensprünge, deine Sexualität oder politische Orientierung:
 
-114
+130
 00:07:24,639 --> 00:07:27,580
 了解你的私生活的人同时也掌控着你，这种滋味没有人
 Wer über dein Privatleben bescheid weiss, hat Macht über dich, und niemand weiss das
 
-115
+131
 00:07:27,580 --> 00:07:31,630
 能够比东德国家安全局或其他德国政权管制下的牺牲者更加了解了：
 besser als die Opfer der Stasi in der DDR oder einem anderen deutschen Unrechtsregime:
 
-116
+132
 00:07:31,630 --> 00:07:36,330
 德国警察在19世纪列出了一个自称是男同性恋的名人的清单
 Die deutsche Polizei im 19. Jahrhundert führte Listen über bekannte und angebliche Schwule
 
-117
+133
 00:07:36,330 --> 00:07:42,250
 ——这是为了减轻刑法第175条，有关禁止男同性恋性交的条例。
 - es ging darum, die Strafverfolgung nach §175, der schwulen Sex verbot, zu erleichtern.
 
-118
+134
 00:07:42,250 --> 00:07:47,270
 1933年后，这个清单流入了纳粹手中，他们先是加重了对第175条的惩罚力度，
 Ab 1933 fielen diese Listen den Nazis in die Hände, die zuerst den §175 verschärften
 
-119
+135
 00:07:47,270 --> 00:07:50,979
 紧接着又在Psychatrien拖走、阉割
 und anschliessend zehntausende Männer in Psychatrien verschleppten, kastrierten oder in
 
-120
+136
 00:07:50,979 --> 00:07:55,139
 和在集中营里杀死了上万的男人——这是人们在当初列出这一所谓的粉红名单时完全没有想到的，
 Konzentrationslagern umbrachten - so weit hatte man beim Anlegen der sogenannten Rosa Listen
 
-121
+137
 00:07:55,139 --> 00:07:59,759
 它现在被看做反对数据采集的最重要的纪念碑之一。
 sicher nicht gedacht, und sie gelten heute als eines der wichtigsten Mahnmale gegen Datensammlungen.
 
-122
+138
 00:07:59,759 --> 00:08:03,770
 要是我们还处在纳粹时期，试想在今日，在护照都采用生物统计学信息，
 Und wenn wir schon bei den Nazis sind: Welche Möglichkeit hätten die Juden gehabt, mit
 
-123
+139
 00:08:03,770 --> 00:08:07,250
 每个机场和每道边防线都装有联网的监控系统的时代，
 gefälschten Pässen vor Hitler zu fliehen, wenn damals bereits biometrische Pässe und
 
-124
+140
 00:08:07,250 --> 00:08:11,370
 犹太人又有多大的可能利用假护照蒙混过关，顺利逃脱纳粹的魔掌？
 vernetzte Überwachungssysteme an allen Flughäfen und Grenzen zur Verfügung gestanden hätten?
 
-125
+141
 00:08:11,370 --> 00:08:15,680
 难道我们真的没有用这些设施为未来迫害少数群体做准备吗？
 Leisten wir nicht damit schon die Vorarbeit zur zukünftigen Verfolgung von Minderheiten?
 
-126
+142
 00:08:15,680 --> 00:08:19,419
 像前内政部长沃夫冈•朔伊布勒（Wolfgang Schäuble）那样的政客曾这样抨击上述猜想，
 Politiker, wie der frühere Innenminister Wolfgang Schäuble, haben solche Vergleiche
 
-127
+143
 00:08:19,419 --> 00:08:23,568
 他说设想联邦德国倒退到纳粹时期是不可能的。
 immer mit dem Verweis abgelehnt, dass einRückfall in ein nationalsozialistisches System
 
-128
+144
 00:08:23,569 --> 00:08:27,690
 然而，他真的确信，在未来20到30年内世界上不会有非法政府存在-匈牙利默默地哭了-？
 in der Bundesrepublik undenkbar wäre. Doch,wie kann er sicher sein, dass sich hier in
 
-129
+145
 00:08:27,690 --> 00:08:32,770
 或者德国不会被一个敌对国家接管吗？
 20-30 Jahren kein anderes Unrechtsregime bildet- Ungarn lässt grüßen -, oder dass Deutschland
 
-130
+146
 00:08:32,770 --> 00:08:36,510
 一个法治政府不仅仅要维护社会治安，
 von einem feindlichen Ausländischen übernommen wird? Ein Rechtsstaat muss nicht nur für Sicherheit
 
-131
+147
 00:08:36,510 --> 00:08:40,069
 它还要注意，它维护治安的措施不能对公民滥用。
 sorgen - er muss auch darauf achten, dass seine Methoden zur Sicherheit niemals gegen
 
-132
+148
 00:08:40,070 --> 00:08:41,880
 seine Bürger missbraucht werden können.
 
-133
+149
 00:08:41,880 --> 00:08:45,670
 正如二战后乔治·奥威尔在他的小说《1984》中预言的那样，在一个由政府监控的国家，
 Ein Überwachungs-Staat ist auch das, was George Orwell nach dem zweiten Weltkrieg in
 
-134
+150
 00:08:45,670 --> 00:08:50,810
 政府通过对公民的绝对监控，迫使其公民行为合乎法律，控制他们的言论，
 seinem Roman 1984 vorhersagte: Ein Staat, der seine Bürger durch absolute Überwachung
 
-135
+151
 00:08:50,810 --> 00:08:55,349
 压制他们的性欲，甚至策划战争和恐怖活动，
 zu gesetzeskonformen Handeln zwingt, Sprache kontrolliert, Sexualität unterdrückt und
 
-136
+152
 00:08:55,350 --> 00:08:59,810
 已达到加强监控的目的。
 Kriege und Terrorismus inszeniert, um wiederum Überwachung zu rechtfertigen.
 
-137
+153
 00:08:59,810 --> 00:09:04,000
 如今，政府监控的反对者们的口号：“1984不能不被看做警钟”正在被认真对待，
 Der Spruch von Überwachungskritikern, "1984 war nicht als Anleitung gedacht",
 
-138
+154
 00:09:04,000 --> 00:09:08,029
 因为奥威尔在书中描绘的许多设想已经变作现实。
 ist ernst gemeint, denn vieles aus Orwells Fiktion ist schon heute Realität:
 
-139
+155
 00:09:08,029 --> 00:09:12,339
 “棱镜”和“颞颥”两个窥视计划监视着人们在互联网上的一举一动。
 Die Spähprogramme PRISM und TEMPORA überwachen alles, was du im Netz tust.
 
-140
+156
 00:09:12,339 --> 00:09:16,080
 通过全球定位系统和智能手机，人们无论何时都能获悉你在哪里。
 Durch GPS und Smartphones lässt sich jederzeit
 herausfinden, wo du bist.
 
-141
+157
 00:09:16,080 --> 00:09:21,149
 为了密切追踪犯罪行为，性生活也因此受到压抑，即使绝大多数时候什么也没干。
 Sexualität wird unterdrückt, um Straftaten zu
 verfolgen, die damit meist gar nichts zu tun haben.
 
-142
+158
 00:09:21,149 --> 00:09:25,540
 摄像机监视着公共场合，并自动识别特征标志、
 Videokameras überwachen den öffentlichen
 Raum und identifizieren automatisiert Kennzeichen,
 
-143
+159
 00:09:25,540 --> 00:09:28,399
 人脸或“可疑行为”。
 Gesichter oder „verdächtige Verhaltensweisen".
 
-144
+160
 00:09:28,399 --> 00:09:32,350
 战争报道被操控，并由此操纵着公众的看法，
 Kriegsberichterstattungen werden manipuliert
 und dadurch die öffentliche Meinung gelenkt,
 
-145
+161
 00:09:32,350 --> 00:09:35,020
 如同伊拉克所谓的大规模武装部队屠杀一样。
 wie bei den angeblichen Massenvernichtungs-
 waffen im Irak.
 
-146
+162
 00:09:35,020 --> 00:09:38,920
 出于保护人们的目的而进行的行为，也可能很快会造成更深的伤害，
 Aus dem Bemühen, Menschen zu schützen, kann
 schnell etwas werden, das weit mehr Schaden
 
-147
+163
 00:09:38,920 --> 00:09:43,300
 当初衷被阻碍时。长期的监视限制了我们的
 anrichtet, als ursprünglich verhindert werden
 sollte. Ständige Überwachung schränkt unsere
 
-148
+164
 00:09:43,300 --> 00:09:47,770
 自由--它将引发自我检查与妄想狂，花费大量纳税人的金钱
 Freiheit ein - sie schürt Selbstzensur und
 Paranoia und kostet den Steuerzahler viel Geld
 
-149
+165
 00:09:47,770 --> 00:09:51,079
 --而不是切实的发挥它本身的作用。
 -- ohne dass ihr Nutzen wirklich sicher ist.
 
-150
+166
 00:09:51,080 --> 00:09:54,720
 与此同时，在接下来的时间里，监视甚至还会增加。
 Dabei ist es wahrscheinlich, dass die Überwachung
 in den nächsten Jahren sogar noch zunimmt.
 
-151
+167
 00:09:54,720 --> 00:09:58,940
 并非全世界所有私人谈话都被窃听的原因，不是
 Der Grund, warum nicht jedes private Gespräch
 überall auf der Welt abghört wird, ist nicht
 
-152
+168
 00:09:58,940 --> 00:10:03,010
 出于对隐私的尊重--只是技术问题还未能解决而已。
 Respekt vor der Privatsphäre - es ist einfach
 technisch noch nicht möglich.
 
-153
+169
 00:10:03,010 --> 00:10:06,590
 在不久的将来，科学技术就能达到这种程度，而问题在于
 Bis die Technik so weit ist, wird es nicht
 mehr lange dauern, und die Frage ist,
 
-154
+170
 00:10:06,590 --> 00:10:08,080
 在这种情况下，我们该何去何从。
 wie wir damit umgehen.
 
-155
+171
 00:10:08,080 --> 00:10:11,290
 我们是想要在一个安全和自由相对平等重要的世界里，
-Wollen wir in einer Welt leben, in der 
+Wollen wir in einer Welt leben, in der
 Sicherheit und Freiheit gleichberechtigt sind?
 
-156
+172
 00:10:11,290 --> 00:10:14,579
 还是在一个有可疑的自由、遍地都是安全警告的
 Oder in einem Überwachungsstaat, in dem
 Freiheit selbst schon als verdächtig gilt,
 
-157
+173
 00:10:14,580 --> 00:10:16,500
 受政府监视的国家生活呢？
 und vor lauter Sicherheitswahn erdrückt wird?
 
-158
+174
 00:10:16,500 --> 00:10:18,910
 您对此是怎么看的呢？您认为对社会来说，监管是利还是弊？
 Wie siehst du das? Ist Überwachung gut oder
 
-159
+175
 00:10:18,910 --> 00:10:22,240
 亦或我们是否已经准备好迎接受政府监视的国家的到来呢？
 schlecht für die Gesellschaft, oder sind
 wir bereits auf dem Weg in den Überwachungsstaat?
 
-160
+176
 00:10:22,240 --> 00:10:26,130
 在我们的视频下面给我们留言吧！如果您喜欢本集视频的话，
 Schreib mir deine Meinung in die Kommentare!
 Wenn dir das Video gefallen hat, freu ich mich
 
-161
+177
 00:10:26,130 --> 00:10:29,779
 您在视频下点个“赞”，我会很开心。除此之外，假如您传播本集视频，
 über nen Daumen hoch - und ich freu mich ausserdem,
 wenn du es weiterverbreitest, damit noch andere Leute
 
-162
+178
 00:10:29,779 --> 00:10:32,200
 让更多的人知道什么是“受政府监视的国家”，我会更加开心！
 erfahren, was ein Überwachungsstaat ist.
 
-163
+179
 00:10:32,200 --> 00:10:34,810
 现在您还可以这里观看“我的涂鸦 我的生活”，
 Jetzt kannst du dir hier noch mein Draw My Life angucken,
 
-164
+180
 00:10:34,810 --> 00:10:37,170
 或者最近我画的有关怪兽的卡通。
 oder meinen letzten Cartoon, in dem es um Monster geht.
 
-165
+181
 00:10:37,170 --> 00:10:40,199
 感谢您观看本集视频，再见！
 Viel Spass beim Anschauen und bis zum nächsten mal!
+
