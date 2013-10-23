@@ -708,92 +708,128 @@ und dies sogar noch einige Zeit nach seiner Freilassung fortsetzte.
 
 116
 00:06:27,759 --> 00:06:31,070
-在这期间，要想进入当局枪口的瞄准器中，根本无需刻意做些什么，
-Dabei ist es noch nicht einmal nötig, etwas dafür zu tun, um ins Visier von Behörden
+这种事根本无需刻意做些什么，
+Dabei ist es noch nicht einmal nötig, etwas dafür zu tun,
+才能进入当局的瞄准器中，
+um ins Visier von Behörden zu geraten.
 
 117
 00:06:31,070 --> 00:06:35,680
-只要有一个错误的名字就足够了。三个来自美国的詹姆斯 罗宾逊
-zu geraten. Den falschen Namen zu haben reicht völlig aus. Drei James Robinsons aus den
+只要有一个错误的名字就足够了。
+Den falschen Namen zu haben reicht völlig aus.
+三个来自美国的詹姆斯•罗宾逊必须要知道，
+Drei James Robinsons aus den USA mussten erfahren,
 
 118
 00:06:35,680 --> 00:06:38,870
-必须要了解，名字在恐怖分子监视名单上意味着什么。
-USA mussten erfahren, was es bedeutet, auf einer Terror-Watchlist zu stehen. Der eine
+名字在恐怖分子监视名单上意味着什么。
+was es bedeutet, auf einer Terror-Watchlist zu stehen. 
 
 119
 00:06:38,870 --> 00:06:43,490
-他们一个是飞机驾驶员，一个是律师，第三个只是一个五岁的男孩——然而他们三个都
-ist Pilot, der nächste Anwalt, und der dritte ein 5-jähriger Junge - und alle drei werden
+他们一个是飞机驾驶员，
+Der eine ist Pilot, 
+一个是律师，
+der nächste Anwalt, 
+第三个只是一个五岁的男孩
+und der dritte ein 5-jähriger Junge
+- 然而他们三个都因为他们的名字
+- und alle drei werden aufgrund ihres Namens 
 
 120
 00:06:43,490 --> 00:06:46,979
-因为他们的名字而被怀疑为恐怖分子，而且必须在乘坐飞机前
-aufgrund ihres Namens verdächtigt, Terroristen zu sein und müssen sich bei Flügen einer
+而被怀疑为恐怖分子，
+verdächtigt, Terroristen zu sein
+而且必须在乘坐飞机前接受严格的检查，
+und müssen sich bei Flügen einer intensiven Untersuchung stellen 
 
 121
 00:06:46,979 --> 00:06:51,130
-接受严格的检查，甚至要做好不被允许乘坐飞机的准备。
-intensiven Untersuchung stellen oder damit rechnen, nicht fliegen zu dürfen. Obwohl
+或者要做好禁止登机的准备。
+oder damit rechnen, nicht fliegen zu dürfen. 
 
 122
 00:06:51,130 --> 00:06:55,340
-尽管他们三人都采取了行动来反对这样的差别对待，但是什么都没有改变。只有当他们
-alle drei gegen diese Behandlung vorgingen, änderte sich nichts. Erst als sie ihren Namen
+尽管他们三人都对此采取了反对措施，
+Obwohl alle drei gegen diese Behandlung vorgingen,
+但是什么都没有改变。
+änderte sich nichts. 
+只有当他们在预定机票时将他们的名字以另一种形式写出
+Erst als sie ihren Namen bei Buchungen in anderer Form angaben
 
 123
 00:06:55,340 --> 00:07:00,008
-在预定机票时将他们的名字以另一种形式写出——例如“吉姆”，而不是詹姆斯，才有可能成功。
-bei Buchungen in anderer Form angaben - z.b. "Jim" statt James, konnten sie passieren.
+- 例如“吉姆”，而不是詹姆斯，才有可能成功。
+- z.B. "Jim" statt James, konnten sie passieren.
 
 124
 00:07:00,009 --> 00:07:04,180
-当恐怖分子监视名单完全错误时，它还有哪些价值？
-Welchen Wert hat eine Terror-Watchlist, wenn sie die völlig Falschen trifft, und welche
+这种恐怖分子监视名单还有哪些价值，
+Welchen Wert hat eine Terror-Watchlist,
+如果它会伤害到完全错误的对象，
+wenn sie die völlig Falschen trifft, 
 
 125
 00:07:04,180 --> 00:07:07,780
-而对另一种监控形式的可信性又会得出什么结论呢？
-Rückschlüsse lässt dies auf die Verlässlichkeit anderer Formen von Überwachung zu?
+基于其他监控形式的可靠性又能得出什么结论呢？
+und welche Rückschlüsse lässt dies auf die Verlässlichkeit anderer Formen von Überwachung zu?
 
 126
 00:07:07,780 --> 00:07:11,599
-还有更深层次的问题就是数据的滥用——这不仅仅意味着
-Ein weiteres Problem ist der Missbrauch von Daten - und damit ist nicht allein der Verkauf
+还有更深层次的问题就是数据的滥用
+Ein weiteres Problem ist der Missbrauch von Daten
+- 这不仅仅指的是
+- und damit ist nicht allein
+为了散发广告而贩卖私人住址这种事
+der Verkauf on privaten Adressen zu WERBEzwecken gemeint,
 
 127
 00:07:11,600 --> 00:07:15,740
-为了散发广告而贩卖私人住址这一事实上在当今德国
-von privaten Adressen zu WERBEzwecken gemeint, wie er in Deutschlands Einwohnermeldeämter
+就像在当今德国户籍管理处
+wie er in Deutschlands Einwohnermeldeämter
 
 128
 00:07:15,740 --> 00:07:19,330
-户籍管理处已经合法而且普遍的行为，还意味着
-tatsächlich heute schon legal üblich ist, sondern auch die Verwendung ausspionierter
+事实上已经合法而且普遍的行为，
+tatsächlich heute schon legal üblich ist, 
+此外还涉及到处于监控下的私人信息
+sondern auch die Verwendung ausspionierter privater Dinge
 
 129
 00:07:19,330 --> 00:07:24,639
-处于监控下的私人信息被使用——外遇，你的性生活，或者政治立场：
-privater Dinge - seien es Seitensprünge, deine Sexualität oder politische Orientierung:
+- 类似放荡的行为，
+- seien es Seitensprünge, 
+你的性生活
+deine Sexualität
+或者政治立场：
+oder politische Orientierung:
 
 130
 00:07:24,639 --> 00:07:27,580
-了解你的私生活的人同时也掌控着你，这种滋味没有人
-Wer über dein Privatleben bescheid weiss, hat Macht über dich, und niemand weiss das
+了解你的私生活的人
+Wer über dein Privatleben bescheid weiss,
+就可以掌控着你，
+hat Macht über dich,
 
 131
 00:07:27,580 --> 00:07:31,630
-能够比东德国家安全局或其他德国政权管制下的牺牲者更加了解了：
-besser als die Opfer der Stasi in der DDR oder einem anderen deutschen Unrechtsregime:
+这种滋味没有人能够比
+und niemand weiss das besser als die Opfer
+东德国家安全局
+der Stasi(Staatssicherheitsdienst) in der DDR 
+或其他德国政权管制下的牺牲者更加了解了：
+oder einem anderen deutschen Unrechtsregime:
 
 132
 00:07:31,630 --> 00:07:36,330
-德国警察在19世纪列出了一个自称是男同性恋的名人的清单
-Die deutsche Polizei im 19. Jahrhundert führte Listen über bekannte und angebliche Schwule
+德国警察在19世纪拥有一份名单
+Die deutsche Polizei im 19. Jahrhundert führte Listen
+名单上记录着已知的和据说是男同性恋的人
+über bekannte und angebliche Schwule
 
 133
 00:07:36,330 --> 00:07:42,250
-——这是为了减轻刑法第175条，有关禁止男同性恋性交的条例。
+- 这是为了减轻刑法第175条，有关禁止男同性恋性交的条例。
 - es ging darum, die Strafverfolgung nach §175, der schwulen Sex verbot, zu erleichtern.
 
 134
